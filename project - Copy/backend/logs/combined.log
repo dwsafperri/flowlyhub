@@ -1,0 +1,255 @@
+{"cause":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":294611896,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"errorLabelSet":{},"level":"error","message":"Database connection failed: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":294611896,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"service":"flowlyhub-api","stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (C:\\Users\\ijaha\\Downloads\\project\\backend\\node_modules\\mongoose\\lib\\connection.js:1165:11)\n    at NativeConnection.openUri (C:\\Users\\ijaha\\Downloads\\project\\backend\\node_modules\\mongoose\\lib\\connection.js:1096:11)\n    at async connectDB (file:///C:/Users/ijaha/Downloads/project/backend/server.js:77:18)\n    at async startServer (file:///C:/Users/ijaha/Downloads/project/backend/server.js:129:5)","timestamp":"2025-06-10T17:21:57.305Z"}
+{"level":"warn","message":"Database connection failed, running in demo mode:","service":"flowlyhub-api","timestamp":"2025-06-10T17:33:21.481Z"}
+{"level":"info","message":"Running in demo mode without database","service":"flowlyhub-api","timestamp":"2025-06-10T17:33:21.486Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-10T17:33:21.488Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-10T17:33:21.489Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-10T17:33:21.490Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-10T17:33:21.490Z"}
+{"level":"warn","message":"Database connection failed, running in demo mode:","service":"flowlyhub-api","timestamp":"2025-06-11T10:55:29.754Z"}
+{"level":"info","message":"Running in demo mode without database","service":"flowlyhub-api","timestamp":"2025-06-11T10:55:29.759Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-11T10:55:29.765Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-11T10:55:29.766Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-11T10:55:29.766Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-11T10:55:29.767Z"}
+{"level":"warn","message":"Database connection failed, running in demo mode:","service":"flowlyhub-api","timestamp":"2025-06-11T11:03:56.236Z"}
+{"level":"warn","message":"Database connection failed, running in demo mode:","service":"flowlyhub-api","timestamp":"2025-06-11T11:05:56.139Z"}
+{"level":"info","message":"Running in demo mode without database","service":"flowlyhub-api","timestamp":"2025-06-11T11:05:56.143Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-11T11:05:56.151Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-11T11:05:56.152Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-11T11:05:56.153Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-11T11:05:56.154Z"}
+{"level":"warn","message":"Database connection failed, running in demo mode:","service":"flowlyhub-api","timestamp":"2025-06-11T11:09:06.982Z"}
+{"level":"warn","message":"Database connection failed, running in demo mode:","service":"flowlyhub-api","timestamp":"2025-06-11T11:10:57.602Z"}
+{"level":"warn","message":"Database connection failed, running in demo mode:","service":"flowlyhub-api","timestamp":"2025-06-11T11:14:22.081Z"}
+{"level":"warn","message":"Database connection failed, running in demo mode:","service":"flowlyhub-api","timestamp":"2025-06-11T11:19:25.720Z"}
+{"level":"info","message":"Running in demo mode without database","service":"flowlyhub-api","timestamp":"2025-06-11T11:19:25.723Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-11T11:19:25.728Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-11T11:19:25.728Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-11T11:19:25.729Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-11T11:19:25.729Z"}
+{"level":"warn","message":"Database connection failed, running in demo mode:","service":"flowlyhub-api","timestamp":"2025-06-11T11:29:49.075Z"}
+{"level":"info","message":"Running in demo mode without database","service":"flowlyhub-api","timestamp":"2025-06-11T11:29:49.079Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-11T11:29:49.087Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-11T11:29:49.088Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-11T11:29:49.088Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-11T11:29:49.090Z"}
+{"level":"warn","message":"Database connection failed, running in demo mode:","service":"flowlyhub-api","timestamp":"2025-06-11T11:37:16.544Z"}
+{"level":"info","message":"Running in demo mode without database","service":"flowlyhub-api","timestamp":"2025-06-11T11:37:16.551Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-11T11:37:16.558Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-11T11:37:16.559Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-11T11:37:16.560Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-11T11:37:16.562Z"}
+{"level":"warn","message":"Database connection failed, running in demo mode:","service":"flowlyhub-api","timestamp":"2025-06-12T07:38:51.085Z"}
+{"level":"info","message":"Running in demo mode without database","service":"flowlyhub-api","timestamp":"2025-06-12T07:38:51.090Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-12T07:38:51.095Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-12T07:38:51.096Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-12T07:38:51.098Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-12T07:38:51.098Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"flowlyhub-api","timestamp":"2025-06-12T08:45:23.687Z"}
+{"level":"warn","message":"Database connection failed, running in demo mode:","service":"flowlyhub-api","timestamp":"2025-06-12T08:46:58.254Z"}
+{"level":"info","message":"Running in demo mode without database","service":"flowlyhub-api","timestamp":"2025-06-12T08:46:58.258Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-12T08:46:58.262Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-12T08:46:58.263Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-12T08:46:58.263Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-12T08:46:58.264Z"}
+{"body":"{\\\"name\\\":\\\"Test User\\\",\\\"email\\\":\\\"test@test.com\\\",\\\"password\\\":\\\"password123\\\",\\\"phone\\\":\\\"1234567890\\\"}","expose":true,"level":"error","message":"Unhandled error: Expected property name or '}' in JSON at position 1","service":"flowlyhub-api","stack":"SyntaxError: Expected property name or '}' in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\ijaha\\Downloads\\project\\backend\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\ijaha\\Downloads\\project\\backend\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)\n    at invokeCallback (C:\\Users\\ijaha\\Downloads\\project\\backend\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\ijaha\\Downloads\\project\\backend\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\ijaha\\Downloads\\project\\backend\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:518:28)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","status":400,"statusCode":400,"timestamp":"2025-06-12T08:48:22.461Z","type":"entity.parse.failed"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-12T23:26:27.286Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-12T23:26:27.294Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-12T23:26:27.295Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-12T23:26:27.295Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-12T23:26:27.296Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"flowlyhub-api","timestamp":"2025-06-12T23:48:24.689Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-12T23:48:31.379Z"}
+{"level":"info","message":"Default admin user created: admin@flowlyhub.com / admin123","service":"flowlyhub-api","timestamp":"2025-06-12T23:48:31.744Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-12T23:48:31.748Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-12T23:48:31.749Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-12T23:48:31.749Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-12T23:48:31.749Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"flowlyhub-api","timestamp":"2025-06-12T23:51:26.734Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-12T23:51:34.511Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-12T23:51:34.574Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-12T23:51:34.575Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-12T23:51:34.576Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-12T23:51:34.576Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-12T23:52:15.476Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"flowlyhub-api","timestamp":"2025-06-12T23:52:17.813Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-12T23:52:47.442Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-12T23:52:47.484Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-12T23:52:47.485Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-12T23:52:47.485Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-12T23:52:47.486Z"}
+{"body":"{\\","expose":true,"level":"error","message":"Unhandled error: Expected property name or '}' in JSON at position 1","service":"flowlyhub-api","stack":"SyntaxError: Expected property name or '}' in JSON at position 1\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\ijaha\\Downloads\\project - Copy\\backend\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\ijaha\\Downloads\\project - Copy\\backend\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)\n    at invokeCallback (C:\\Users\\ijaha\\Downloads\\project - Copy\\backend\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\ijaha\\Downloads\\project - Copy\\backend\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\ijaha\\Downloads\\project - Copy\\backend\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:518:28)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","status":400,"statusCode":400,"timestamp":"2025-06-12T23:53:46.961Z","type":"entity.parse.failed"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-12T23:54:59.559Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-12T23:54:59.595Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-12T23:54:59.596Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-12T23:54:59.597Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-12T23:54:59.597Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"flowlyhub-api","timestamp":"2025-06-13T00:04:16.600Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T00:04:24.954Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T00:04:25.010Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T00:04:25.010Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T00:04:25.011Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T00:04:25.011Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T02:00:41.902Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"flowlyhub-api","timestamp":"2025-06-13T02:40:46.115Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T02:41:36.938Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T02:41:37.012Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T02:41:37.013Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T02:41:37.014Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T02:41:37.014Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"flowlyhub-api","timestamp":"2025-06-13T02:45:19.725Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T02:45:29.548Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T02:45:29.639Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T02:45:29.640Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T02:45:29.641Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T02:45:29.642Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T02:48:15.454Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T02:48:15.497Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T02:48:15.498Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T02:48:15.498Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T02:48:15.499Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"flowlyhub-api","timestamp":"2025-06-13T03:26:31.024Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T03:26:39.596Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T03:26:39.639Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T03:26:39.640Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T03:26:39.641Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T03:26:39.641Z"}
+{"level":"error","message":"Database connection failed:","service":"flowlyhub-api","timestamp":"2025-06-13T06:48:16.549Z"}
+{"level":"info","message":"Server will continue without database (some features may be limited)","service":"flowlyhub-api","timestamp":"2025-06-13T06:48:16.557Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T06:48:16.565Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T06:48:16.567Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T06:48:16.568Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T06:48:16.570Z"}
+{"level":"error","message":"Database connection failed:","service":"flowlyhub-api","timestamp":"2025-06-13T06:54:04.955Z"}
+{"level":"info","message":"Server will continue without database (some features may be limited)","service":"flowlyhub-api","timestamp":"2025-06-13T06:54:04.964Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T06:54:04.973Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T06:54:04.975Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T06:54:04.976Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T06:54:04.978Z"}
+{"level":"error","message":"Database connection failed:","service":"flowlyhub-api","timestamp":"2025-06-13T07:02:49.089Z"}
+{"level":"info","message":"Server will continue without database (some features may be limited)","service":"flowlyhub-api","timestamp":"2025-06-13T07:02:49.102Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T07:02:49.116Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T07:02:49.118Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T07:02:49.119Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T07:02:49.121Z"}
+{"level":"error","message":"Database connection failed:","service":"flowlyhub-api","timestamp":"2025-06-13T07:09:37.037Z"}
+{"level":"info","message":"Server will continue without database (some features may be limited)","service":"flowlyhub-api","timestamp":"2025-06-13T07:09:37.046Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T07:09:37.057Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T07:09:37.058Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T07:09:37.061Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T07:09:37.063Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T07:23:08.018Z"}
+{"level":"info","message":"Default admin user created: admin@flowlyhub.com / admin123","service":"flowlyhub-api","timestamp":"2025-06-13T07:23:09.056Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T07:23:09.068Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T07:23:09.069Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T07:23:09.070Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T07:23:09.071Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T15:01:46.926Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T15:01:47.055Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T15:01:47.058Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T15:01:47.059Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T15:01:47.060Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T16:35:14.316Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T17:36:09.186Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T17:36:09.241Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T17:36:09.242Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T17:36:09.242Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T17:36:09.242Z"}
+{"body":"{\r\n        'nama_barang': 'Beras',  \r\n        'stok_awal': 1000,\r\n        'masuk': 500,\r\n        'keluar': 0,\r\n        'satuan': 'Kg',\r\n        'bulan': 6\r\n    },","expose":true,"level":"error","message":"Unhandled error: Expected property name or '}' in JSON at position 11 (line 2 column 9)","service":"flowlyhub-api","stack":"SyntaxError: Expected property name or '}' in JSON at position 11 (line 2 column 9)\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\Asus\\OneDrive - student.gunadarma.ac.id\\Documents\\DICODING\\DBS\\CAPSTONE\\project - Copy\\backend\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\Asus\\OneDrive - student.gunadarma.ac.id\\Documents\\DICODING\\DBS\\CAPSTONE\\project - Copy\\backend\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)\n    at invokeCallback (C:\\Users\\Asus\\OneDrive - student.gunadarma.ac.id\\Documents\\DICODING\\DBS\\CAPSTONE\\project - Copy\\backend\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\Asus\\OneDrive - student.gunadarma.ac.id\\Documents\\DICODING\\DBS\\CAPSTONE\\project - Copy\\backend\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\Asus\\OneDrive - student.gunadarma.ac.id\\Documents\\DICODING\\DBS\\CAPSTONE\\project - Copy\\backend\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:518:28)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","status":400,"statusCode":400,"timestamp":"2025-06-13T17:38:37.265Z","type":"entity.parse.failed"}
+{"body":"{\r\n        'nama_barang': 'Beras',  \r\n        'stok_awal': 1000,\r\n        'masuk': 500,\r\n        'keluar': 0,\r\n        'satuan': 'Kg',\r\n        'bulan': 6\r\n    }","expose":true,"level":"error","message":"Unhandled error: Expected property name or '}' in JSON at position 11 (line 2 column 9)","service":"flowlyhub-api","stack":"SyntaxError: Expected property name or '}' in JSON at position 11 (line 2 column 9)\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\Asus\\OneDrive - student.gunadarma.ac.id\\Documents\\DICODING\\DBS\\CAPSTONE\\project - Copy\\backend\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\Asus\\OneDrive - student.gunadarma.ac.id\\Documents\\DICODING\\DBS\\CAPSTONE\\project - Copy\\backend\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)\n    at invokeCallback (C:\\Users\\Asus\\OneDrive - student.gunadarma.ac.id\\Documents\\DICODING\\DBS\\CAPSTONE\\project - Copy\\backend\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\Asus\\OneDrive - student.gunadarma.ac.id\\Documents\\DICODING\\DBS\\CAPSTONE\\project - Copy\\backend\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\Asus\\OneDrive - student.gunadarma.ac.id\\Documents\\DICODING\\DBS\\CAPSTONE\\project - Copy\\backend\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:518:28)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","status":400,"statusCode":400,"timestamp":"2025-06-13T17:38:50.078Z","type":"entity.parse.failed"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"flowlyhub-api","timestamp":"2025-06-13T17:57:25.852Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T17:57:37.207Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T17:57:37.239Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T17:57:37.240Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T17:57:37.240Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T17:57:37.241Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"flowlyhub-api","timestamp":"2025-06-13T18:01:33.599Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T18:01:38.119Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T18:01:38.143Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T18:01:38.144Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T18:01:38.144Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T18:01:38.145Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"flowlyhub-api","timestamp":"2025-06-13T18:02:09.357Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T18:02:12.797Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T18:02:12.827Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T18:02:12.829Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T18:02:12.830Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T18:02:12.831Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"flowlyhub-api","timestamp":"2025-06-13T18:02:46.962Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T18:02:54.682Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T18:02:54.715Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T18:02:54.715Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T18:02:54.716Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T18:02:54.716Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"flowlyhub-api","timestamp":"2025-06-13T18:04:12.554Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T18:04:18.188Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T18:04:18.219Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T18:04:18.219Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T18:04:18.220Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T18:04:18.220Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"flowlyhub-api","timestamp":"2025-06-13T18:09:43.384Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T18:09:48.859Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T18:09:48.889Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T18:09:48.889Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T18:09:48.890Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T18:09:48.890Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"flowlyhub-api","timestamp":"2025-06-13T18:11:37.431Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T18:13:40.220Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T18:13:40.249Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T18:13:40.250Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T18:13:40.250Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T18:13:40.251Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"flowlyhub-api","timestamp":"2025-06-13T18:18:44.728Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T18:18:49.507Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T18:18:49.538Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T18:18:49.538Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T18:18:49.539Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T18:18:49.539Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"flowlyhub-api","timestamp":"2025-06-13T18:22:44.312Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T18:23:29.776Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T18:23:29.808Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T18:23:29.809Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T18:23:29.809Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T18:23:29.809Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"flowlyhub-api","timestamp":"2025-06-13T18:25:29.516Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T18:29:44.635Z"}
+{"level":"error","message":"Failed to start server: Cannot read properties of undefined (reading 'method')","service":"flowlyhub-api","stack":"TypeError: Cannot read properties of undefined (reading 'method')\n    at Function.handle (C:\\Users\\Asus\\OneDrive - student.gunadarma.ac.id\\Documents\\DICODING\\DBS\\CAPSTONE\\project - Copy\\backend\\node_modules\\express\\lib\\router\\index.js:139:34)\n    at router (C:\\Users\\Asus\\OneDrive - student.gunadarma.ac.id\\Documents\\DICODING\\DBS\\CAPSTONE\\project - Copy\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at startServer (file:///C:/Users/Asus/OneDrive%20-%20student.gunadarma.ac.id/Documents/DICODING/DBS/CAPSTONE/project%20-%20Copy/backend/server.js:235:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-06-13T18:29:44.674Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T18:31:00.450Z"}
+{"level":"error","message":"Failed to start server: Cannot read properties of undefined (reading 'method')","service":"flowlyhub-api","stack":"TypeError: Cannot read properties of undefined (reading 'method')\n    at Function.handle (C:\\Users\\Asus\\OneDrive - student.gunadarma.ac.id\\Documents\\DICODING\\DBS\\CAPSTONE\\project - Copy\\backend\\node_modules\\express\\lib\\router\\index.js:139:34)\n    at router (C:\\Users\\Asus\\OneDrive - student.gunadarma.ac.id\\Documents\\DICODING\\DBS\\CAPSTONE\\project - Copy\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at startServer (file:///C:/Users/Asus/OneDrive%20-%20student.gunadarma.ac.id/Documents/DICODING/DBS/CAPSTONE/project%20-%20Copy/backend/server.js:235:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-06-13T18:31:00.480Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T18:31:45.405Z"}
+{"level":"error","message":"Failed to start server: Cannot read properties of undefined (reading 'method')","service":"flowlyhub-api","stack":"TypeError: Cannot read properties of undefined (reading 'method')\n    at Function.handle (C:\\Users\\Asus\\OneDrive - student.gunadarma.ac.id\\Documents\\DICODING\\DBS\\CAPSTONE\\project - Copy\\backend\\node_modules\\express\\lib\\router\\index.js:139:34)\n    at router (C:\\Users\\Asus\\OneDrive - student.gunadarma.ac.id\\Documents\\DICODING\\DBS\\CAPSTONE\\project - Copy\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at startServer (file:///C:/Users/Asus/OneDrive%20-%20student.gunadarma.ac.id/Documents/DICODING/DBS/CAPSTONE/project%20-%20Copy/backend/server.js:235:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-06-13T18:31:45.437Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T18:33:52.749Z"}
+{"level":"error","message":"Failed to start server: Cannot read properties of undefined (reading 'method')","service":"flowlyhub-api","stack":"TypeError: Cannot read properties of undefined (reading 'method')\n    at Function.handle (C:\\Users\\Asus\\OneDrive - student.gunadarma.ac.id\\Documents\\DICODING\\DBS\\CAPSTONE\\project - Copy\\backend\\node_modules\\express\\lib\\router\\index.js:139:34)\n    at router (C:\\Users\\Asus\\OneDrive - student.gunadarma.ac.id\\Documents\\DICODING\\DBS\\CAPSTONE\\project - Copy\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at startServer (file:///C:/Users/Asus/OneDrive%20-%20student.gunadarma.ac.id/Documents/DICODING/DBS/CAPSTONE/project%20-%20Copy/backend/server.js:235:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-06-13T18:33:52.785Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T18:33:52.789Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T18:33:52.789Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T18:33:52.790Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T18:33:52.792Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"flowlyhub-api","timestamp":"2025-06-13T18:34:26.927Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T18:34:30.819Z"}
+{"level":"error","message":"Failed to start server: Cannot read properties of undefined (reading 'method')","service":"flowlyhub-api","stack":"TypeError: Cannot read properties of undefined (reading 'method')\n    at Function.handle (C:\\Users\\Asus\\OneDrive - student.gunadarma.ac.id\\Documents\\DICODING\\DBS\\CAPSTONE\\project - Copy\\backend\\node_modules\\express\\lib\\router\\index.js:139:34)\n    at router (C:\\Users\\Asus\\OneDrive - student.gunadarma.ac.id\\Documents\\DICODING\\DBS\\CAPSTONE\\project - Copy\\backend\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at startServer (file:///C:/Users/Asus/OneDrive%20-%20student.gunadarma.ac.id/Documents/DICODING/DBS/CAPSTONE/project%20-%20Copy/backend/server.js:235:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-06-13T18:34:30.858Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T18:34:30.860Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T18:34:30.861Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T18:34:30.862Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T18:34:30.862Z"}
+{"level":"info","message":"SIGINT received. Shutting down gracefully...","service":"flowlyhub-api","timestamp":"2025-06-13T18:37:58.839Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T18:38:05.591Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T18:38:05.627Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T18:40:48.012Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T18:40:48.078Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T18:40:48.079Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T18:40:48.080Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T18:40:48.080Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T18:41:03.373Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T18:41:03.441Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T18:41:03.441Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T18:41:03.442Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T18:41:03.442Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T18:45:49.231Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T18:45:49.285Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-13T18:45:49.286Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-13T18:45:49.286Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-13T18:45:49.288Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T18:49:55.075Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T18:49:55.131Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-13T18:52:19.085Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-13T18:52:19.130Z"}
