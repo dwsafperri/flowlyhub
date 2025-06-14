@@ -520,3 +520,8 @@
 {"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-14T08:37:35.974Z"}
 {"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-14T08:37:35.975Z"}
 {"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-14T08:37:35.975Z"}
+{"level":"info","message":"MongoDB Connected: localhost","service":"flowlyhub-api","timestamp":"2025-06-14T08:39:37.478Z"}
+{"level":"info","message":"🚀 FlowlyHub API server running on port 8086","service":"flowlyhub-api","timestamp":"2025-06-14T08:39:37.522Z"}
+{"level":"info","message":"📊 Environment: development","service":"flowlyhub-api","timestamp":"2025-06-14T08:39:37.523Z"}
+{"level":"info","message":"🌐 API URL: http://localhost:8086/api","service":"flowlyhub-api","timestamp":"2025-06-14T08:39:37.524Z"}
+{"level":"info","message":"✅ Server started successfully","service":"flowlyhub-api","timestamp":"2025-06-14T08:39:37.524Z"}
