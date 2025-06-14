@@ -1,0 +1,2001 @@
+tanggal,jenis_transaksi,kategori_transaksi,jumlah,keterangan
+2024-11-10,Pemasukan,penjualan,15467,Pemasukan - penjualan
+2024-05-09,Pengeluaran,listrik,160192,Pengeluaran - listrik
+2024-03-03,Pengeluaran,listrik,250166,Pengeluaran - listrik
+2024-09-03,Pemasukan,penjualan,245513,Pemasukan - penjualan
+2024-05-10,Pemasukan,penjualan,453113,Pemasukan - penjualan
+2024-06-07,Pengeluaran,transportasi,416535,Pengeluaran - transportasi
+2024-02-22,Pengeluaran,perlengkapan,437743,Pengeluaran - perlengkapan
+2024-05-24,Pemasukan,penjualan,194908,Pemasukan - penjualan
+2024-10-09,Pengeluaran,listrik,245881,Pengeluaran - listrik
+2024-07-02,Pemasukan,penjualan,472967,Pemasukan - penjualan
+2024-02-16,Pemasukan,penjualan,320982,Pemasukan - penjualan
+2024-02-15,Pemasukan,penjualan,359680,Pemasukan - penjualan
+2024-12-16,Pemasukan,penjualan,491300,Pemasukan - penjualan
+2024-09-10,Pengeluaran,listrik,499895,Pengeluaran - listrik
+2024-11-26,Pengeluaran,gaji,52703,Pengeluaran - gaji
+2024-03-06,Pemasukan,penjualan,18815,Pemasukan - penjualan
+2024-06-11,Pengeluaran,bahan baku,34510,Pengeluaran - bahan baku
+2024-04-06,Pemasukan,penjualan,158629,Pemasukan - penjualan
+2024-04-19,Pemasukan,penjualan,23387,Pemasukan - penjualan
+2024-02-10,Pengeluaran,gaji,51809,Pengeluaran - gaji
+2024-05-09,Pemasukan,penjualan,83238,Pemasukan - penjualan
+2024-10-02,Pemasukan,penjualan,305903,Pemasukan - penjualan
+2024-09-12,Pengeluaran,listrik,230380,Pengeluaran - listrik
+2024-02-05,Pengeluaran,gaji,99575,Pengeluaran - gaji
+2024-08-11,Pemasukan,penjualan,362790,Pemasukan - penjualan
+2024-04-29,Pemasukan,penjualan,244420,Pemasukan - penjualan
+2024-02-04,Pengeluaran,bahan baku,306451,Pengeluaran - bahan baku
+2024-03-05,Pemasukan,penjualan,300313,Pemasukan - penjualan
+2024-12-24,Pengeluaran,bahan baku,368646,Pengeluaran - bahan baku
+2024-04-13,Pengeluaran,listrik,216395,Pengeluaran - listrik
+2024-05-28,Pemasukan,penjualan,24069,Pemasukan - penjualan
+2024-03-22,Pemasukan,penjualan,300643,Pemasukan - penjualan
+2024-11-01,Pengeluaran,perlengkapan,384218,Pengeluaran - perlengkapan
+2024-09-28,Pengeluaran,listrik,206951,Pengeluaran - listrik
+2024-02-03,Pengeluaran,gaji,275909,Pengeluaran - gaji
+2024-12-02,Pengeluaran,transportasi,197646,Pengeluaran - transportasi
+2024-09-26,Pengeluaran,bahan baku,494449,Pengeluaran - bahan baku
+2024-04-18,Pengeluaran,transportasi,429871,Pengeluaran - transportasi
+2024-04-12,Pengeluaran,listrik,432704,Pengeluaran - listrik
+2024-09-13,Pengeluaran,gaji,271067,Pengeluaran - gaji
+2024-11-06,Pengeluaran,perlengkapan,396043,Pengeluaran - perlengkapan
+2024-02-03,Pemasukan,penjualan,417434,Pemasukan - penjualan
+2024-08-19,Pemasukan,penjualan,53177,Pemasukan - penjualan
+2024-03-14,Pemasukan,penjualan,372464,Pemasukan - penjualan
+2024-11-22,Pengeluaran,transportasi,395499,Pengeluaran - transportasi
+2024-02-16,Pemasukan,penjualan,173761,Pemasukan - penjualan
+2024-06-06,Pengeluaran,bahan baku,114876,Pengeluaran - bahan baku
+2024-09-27,Pengeluaran,bahan baku,56306,Pengeluaran - bahan baku
+2024-09-16,Pengeluaran,gaji,131752,Pengeluaran - gaji
+2024-01-17,Pengeluaran,gaji,41722,Pengeluaran - gaji
+2024-04-09,Pemasukan,penjualan,89314,Pemasukan - penjualan
+2024-05-01,Pemasukan,penjualan,42875,Pemasukan - penjualan
+2024-12-21,Pemasukan,penjualan,378520,Pemasukan - penjualan
+2024-03-18,Pengeluaran,bahan baku,300536,Pengeluaran - bahan baku
+2024-06-14,Pengeluaran,gaji,487921,Pengeluaran - gaji
+2024-09-09,Pengeluaran,bahan baku,279830,Pengeluaran - bahan baku
+2024-06-26,Pemasukan,penjualan,273525,Pemasukan - penjualan
+2024-01-13,Pengeluaran,gaji,19244,Pengeluaran - gaji
+2024-04-13,Pemasukan,penjualan,32831,Pemasukan - penjualan
+2024-08-02,Pengeluaran,gaji,268578,Pengeluaran - gaji
+2024-02-13,Pengeluaran,bahan baku,231477,Pengeluaran - bahan baku
+2024-12-01,Pengeluaran,gaji,246866,Pengeluaran - gaji
+2024-03-28,Pemasukan,penjualan,132166,Pemasukan - penjualan
+2024-11-29,Pemasukan,penjualan,474431,Pemasukan - penjualan
+2024-11-23,Pengeluaran,perlengkapan,191814,Pengeluaran - perlengkapan
+2024-01-17,Pengeluaran,transportasi,48352,Pengeluaran - transportasi
+2024-03-24,Pengeluaran,listrik,240297,Pengeluaran - listrik
+2024-12-06,Pengeluaran,perlengkapan,447640,Pengeluaran - perlengkapan
+2024-07-09,Pemasukan,penjualan,189910,Pemasukan - penjualan
+2024-09-16,Pemasukan,penjualan,99384,Pemasukan - penjualan
+2024-08-15,Pengeluaran,listrik,449845,Pengeluaran - listrik
+2024-09-05,Pemasukan,penjualan,59012,Pemasukan - penjualan
+2024-07-27,Pemasukan,penjualan,151804,Pemasukan - penjualan
+2024-10-27,Pengeluaran,bahan baku,440396,Pengeluaran - bahan baku
+2024-06-18,Pemasukan,penjualan,245190,Pemasukan - penjualan
+2024-04-03,Pengeluaran,bahan baku,121535,Pengeluaran - bahan baku
+2024-12-29,Pemasukan,penjualan,474558,Pemasukan - penjualan
+2024-10-05,Pengeluaran,gaji,366836,Pengeluaran - gaji
+2024-04-05,Pemasukan,penjualan,87149,Pemasukan - penjualan
+2024-05-14,Pengeluaran,bahan baku,77730,Pengeluaran - bahan baku
+2024-12-18,Pemasukan,penjualan,68349,Pemasukan - penjualan
+2024-11-23,Pemasukan,penjualan,468149,Pemasukan - penjualan
+2024-05-08,Pengeluaran,bahan baku,429136,Pengeluaran - bahan baku
+2024-07-17,Pemasukan,penjualan,280197,Pemasukan - penjualan
+2024-08-08,Pengeluaran,bahan baku,465238,Pengeluaran - bahan baku
+2024-03-02,Pemasukan,penjualan,182556,Pemasukan - penjualan
+2024-11-08,Pemasukan,penjualan,197075,Pemasukan - penjualan
+2024-12-07,Pemasukan,penjualan,222019,Pemasukan - penjualan
+2024-11-17,Pengeluaran,perlengkapan,216087,Pengeluaran - perlengkapan
+2024-03-18,Pengeluaran,perlengkapan,422803,Pengeluaran - perlengkapan
+2024-05-18,Pengeluaran,transportasi,342087,Pengeluaran - transportasi
+2024-02-15,Pengeluaran,gaji,189193,Pengeluaran - gaji
+2024-08-07,Pemasukan,penjualan,103687,Pemasukan - penjualan
+2024-10-25,Pengeluaran,listrik,278536,Pengeluaran - listrik
+2024-01-17,Pengeluaran,bahan baku,152523,Pengeluaran - bahan baku
+2024-08-23,Pengeluaran,transportasi,179535,Pengeluaran - transportasi
+2024-04-04,Pengeluaran,listrik,21617,Pengeluaran - listrik
+2024-05-17,Pemasukan,penjualan,282644,Pemasukan - penjualan
+2024-11-30,Pemasukan,penjualan,75904,Pemasukan - penjualan
+2024-12-24,Pengeluaran,transportasi,443770,Pengeluaran - transportasi
+2024-09-07,Pemasukan,penjualan,128142,Pemasukan - penjualan
+2024-07-18,Pengeluaran,perlengkapan,345379,Pengeluaran - perlengkapan
+2024-07-27,Pemasukan,penjualan,251304,Pemasukan - penjualan
+2024-02-17,Pemasukan,penjualan,370577,Pemasukan - penjualan
+2024-04-30,Pemasukan,penjualan,229938,Pemasukan - penjualan
+2024-05-16,Pengeluaran,gaji,64510,Pengeluaran - gaji
+2024-10-04,Pengeluaran,gaji,232052,Pengeluaran - gaji
+2024-06-15,Pemasukan,penjualan,190663,Pemasukan - penjualan
+2024-10-28,Pengeluaran,listrik,446272,Pengeluaran - listrik
+2024-10-30,Pengeluaran,listrik,491502,Pengeluaran - listrik
+2024-03-30,Pengeluaran,listrik,153128,Pengeluaran - listrik
+2024-12-09,Pemasukan,penjualan,370467,Pemasukan - penjualan
+2024-08-17,Pengeluaran,listrik,62432,Pengeluaran - listrik
+2024-06-03,Pemasukan,penjualan,123972,Pemasukan - penjualan
+2024-04-29,Pemasukan,penjualan,38456,Pemasukan - penjualan
+2024-01-29,Pemasukan,penjualan,266118,Pemasukan - penjualan
+2024-06-16,Pemasukan,penjualan,70810,Pemasukan - penjualan
+2024-11-15,Pengeluaran,bahan baku,336934,Pengeluaran - bahan baku
+2024-01-07,Pemasukan,penjualan,48875,Pemasukan - penjualan
+2024-05-02,Pengeluaran,perlengkapan,167724,Pengeluaran - perlengkapan
+2024-03-03,Pemasukan,penjualan,55295,Pemasukan - penjualan
+2024-08-09,Pengeluaran,perlengkapan,437087,Pengeluaran - perlengkapan
+2024-11-24,Pemasukan,penjualan,27950,Pemasukan - penjualan
+2024-01-11,Pengeluaran,perlengkapan,195341,Pengeluaran - perlengkapan
+2024-06-14,Pengeluaran,bahan baku,332241,Pengeluaran - bahan baku
+2024-03-16,Pemasukan,penjualan,241662,Pemasukan - penjualan
+2024-05-10,Pengeluaran,perlengkapan,408167,Pengeluaran - perlengkapan
+2024-04-16,Pemasukan,penjualan,325079,Pemasukan - penjualan
+2024-10-10,Pemasukan,penjualan,48296,Pemasukan - penjualan
+2024-01-30,Pemasukan,penjualan,459240,Pemasukan - penjualan
+2024-07-23,Pemasukan,penjualan,113670,Pemasukan - penjualan
+2024-03-09,Pengeluaran,gaji,378299,Pengeluaran - gaji
+2024-01-27,Pengeluaran,transportasi,457870,Pengeluaran - transportasi
+2024-11-03,Pemasukan,penjualan,296497,Pemasukan - penjualan
+2024-12-15,Pengeluaran,bahan baku,301514,Pengeluaran - bahan baku
+2024-07-06,Pengeluaran,gaji,218009,Pengeluaran - gaji
+2024-08-30,Pemasukan,penjualan,17486,Pemasukan - penjualan
+2024-08-25,Pengeluaran,listrik,139361,Pengeluaran - listrik
+2024-01-13,Pemasukan,penjualan,123429,Pemasukan - penjualan
+2024-09-11,Pengeluaran,gaji,192993,Pengeluaran - gaji
+2024-11-16,Pengeluaran,listrik,114149,Pengeluaran - listrik
+2024-01-18,Pengeluaran,transportasi,218778,Pengeluaran - transportasi
+2024-05-16,Pengeluaran,transportasi,241299,Pengeluaran - transportasi
+2024-02-27,Pemasukan,penjualan,136985,Pemasukan - penjualan
+2024-02-02,Pemasukan,penjualan,161570,Pemasukan - penjualan
+2024-07-15,Pengeluaran,listrik,276509,Pengeluaran - listrik
+2024-02-07,Pengeluaran,bahan baku,464989,Pengeluaran - bahan baku
+2024-05-09,Pengeluaran,perlengkapan,254422,Pengeluaran - perlengkapan
+2024-01-31,Pengeluaran,gaji,204303,Pengeluaran - gaji
+2024-04-10,Pengeluaran,transportasi,178153,Pengeluaran - transportasi
+2024-09-12,Pemasukan,penjualan,390029,Pemasukan - penjualan
+2024-07-19,Pengeluaran,bahan baku,209429,Pengeluaran - bahan baku
+2024-05-27,Pemasukan,penjualan,169748,Pemasukan - penjualan
+2024-11-27,Pemasukan,penjualan,379942,Pemasukan - penjualan
+2024-12-01,Pemasukan,penjualan,155146,Pemasukan - penjualan
+2024-07-07,Pemasukan,penjualan,198336,Pemasukan - penjualan
+2024-09-11,Pemasukan,penjualan,281902,Pemasukan - penjualan
+2024-07-13,Pengeluaran,bahan baku,343199,Pengeluaran - bahan baku
+2024-03-04,Pengeluaran,transportasi,73117,Pengeluaran - transportasi
+2024-10-22,Pengeluaran,perlengkapan,260927,Pengeluaran - perlengkapan
+2024-12-01,Pengeluaran,transportasi,180417,Pengeluaran - transportasi
+2024-10-01,Pemasukan,penjualan,431153,Pemasukan - penjualan
+2024-10-31,Pemasukan,penjualan,48584,Pemasukan - penjualan
+2024-03-17,Pemasukan,penjualan,455993,Pemasukan - penjualan
+2024-07-07,Pengeluaran,bahan baku,154387,Pengeluaran - bahan baku
+2024-01-17,Pengeluaran,bahan baku,250250,Pengeluaran - bahan baku
+2024-11-04,Pengeluaran,bahan baku,375496,Pengeluaran - bahan baku
+2024-10-22,Pengeluaran,perlengkapan,435970,Pengeluaran - perlengkapan
+2024-10-25,Pemasukan,penjualan,155085,Pemasukan - penjualan
+2024-02-03,Pemasukan,penjualan,203132,Pemasukan - penjualan
+2024-11-24,Pemasukan,penjualan,208896,Pemasukan - penjualan
+2024-11-29,Pengeluaran,gaji,353082,Pengeluaran - gaji
+2024-07-05,Pemasukan,penjualan,127512,Pemasukan - penjualan
+2024-12-29,Pengeluaran,bahan baku,357918,Pengeluaran - bahan baku
+2024-06-23,Pengeluaran,listrik,179529,Pengeluaran - listrik
+2024-11-04,Pengeluaran,bahan baku,124281,Pengeluaran - bahan baku
+2024-12-26,Pengeluaran,perlengkapan,55712,Pengeluaran - perlengkapan
+2024-06-16,Pengeluaran,transportasi,396111,Pengeluaran - transportasi
+2024-08-13,Pengeluaran,listrik,404806,Pengeluaran - listrik
+2024-01-12,Pemasukan,penjualan,225568,Pemasukan - penjualan
+2024-08-09,Pemasukan,penjualan,380149,Pemasukan - penjualan
+2024-01-25,Pengeluaran,bahan baku,352499,Pengeluaran - bahan baku
+2024-10-29,Pemasukan,penjualan,478542,Pemasukan - penjualan
+2024-07-30,Pemasukan,penjualan,118720,Pemasukan - penjualan
+2024-01-01,Pemasukan,penjualan,46038,Pemasukan - penjualan
+2024-10-29,Pengeluaran,transportasi,361023,Pengeluaran - transportasi
+2024-05-15,Pengeluaran,bahan baku,52221,Pengeluaran - bahan baku
+2024-12-31,Pengeluaran,gaji,422353,Pengeluaran - gaji
+2024-10-30,Pemasukan,penjualan,84894,Pemasukan - penjualan
+2024-07-26,Pengeluaran,bahan baku,433327,Pengeluaran - bahan baku
+2024-11-30,Pengeluaran,listrik,219912,Pengeluaran - listrik
+2024-03-10,Pengeluaran,transportasi,192655,Pengeluaran - transportasi
+2024-10-12,Pemasukan,penjualan,496139,Pemasukan - penjualan
+2024-07-03,Pemasukan,penjualan,273308,Pemasukan - penjualan
+2024-09-19,Pengeluaran,bahan baku,99466,Pengeluaran - bahan baku
+2024-11-15,Pemasukan,penjualan,372309,Pemasukan - penjualan
+2024-07-18,Pengeluaran,gaji,145870,Pengeluaran - gaji
+2024-10-01,Pengeluaran,bahan baku,478126,Pengeluaran - bahan baku
+2024-10-22,Pemasukan,penjualan,62768,Pemasukan - penjualan
+2024-06-09,Pemasukan,penjualan,139045,Pemasukan - penjualan
+2024-03-01,Pengeluaran,gaji,63486,Pengeluaran - gaji
+2024-01-17,Pemasukan,penjualan,162813,Pemasukan - penjualan
+2024-04-27,Pemasukan,penjualan,355116,Pemasukan - penjualan
+2024-04-13,Pengeluaran,bahan baku,486923,Pengeluaran - bahan baku
+2024-08-15,Pemasukan,penjualan,165665,Pemasukan - penjualan
+2024-04-05,Pemasukan,penjualan,257721,Pemasukan - penjualan
+2024-06-29,Pemasukan,penjualan,211186,Pemasukan - penjualan
+2024-03-24,Pengeluaran,bahan baku,243027,Pengeluaran - bahan baku
+2024-08-04,Pemasukan,penjualan,234447,Pemasukan - penjualan
+2024-02-03,Pengeluaran,gaji,451473,Pengeluaran - gaji
+2024-03-27,Pemasukan,penjualan,192457,Pemasukan - penjualan
+2024-04-23,Pengeluaran,gaji,493045,Pengeluaran - gaji
+2024-07-18,Pengeluaran,gaji,61467,Pengeluaran - gaji
+2024-01-04,Pemasukan,penjualan,46552,Pemasukan - penjualan
+2024-03-16,Pengeluaran,listrik,402076,Pengeluaran - listrik
+2024-03-17,Pengeluaran,bahan baku,195151,Pengeluaran - bahan baku
+2024-03-23,Pengeluaran,gaji,206775,Pengeluaran - gaji
+2024-10-03,Pemasukan,penjualan,126323,Pemasukan - penjualan
+2024-08-24,Pemasukan,penjualan,409488,Pemasukan - penjualan
+2024-04-21,Pengeluaran,transportasi,355029,Pengeluaran - transportasi
+2024-10-10,Pengeluaran,perlengkapan,117022,Pengeluaran - perlengkapan
+2024-06-08,Pengeluaran,transportasi,50861,Pengeluaran - transportasi
+2024-09-12,Pemasukan,penjualan,230371,Pemasukan - penjualan
+2024-11-11,Pengeluaran,listrik,288391,Pengeluaran - listrik
+2024-04-12,Pengeluaran,listrik,151315,Pengeluaran - listrik
+2024-11-07,Pemasukan,penjualan,439984,Pemasukan - penjualan
+2024-12-30,Pengeluaran,gaji,124194,Pengeluaran - gaji
+2024-08-17,Pemasukan,penjualan,110984,Pemasukan - penjualan
+2024-01-12,Pemasukan,penjualan,64587,Pemasukan - penjualan
+2024-01-16,Pemasukan,penjualan,350975,Pemasukan - penjualan
+2024-02-07,Pemasukan,penjualan,467459,Pemasukan - penjualan
+2024-12-04,Pengeluaran,transportasi,340787,Pengeluaran - transportasi
+2024-05-04,Pengeluaran,listrik,184806,Pengeluaran - listrik
+2024-09-30,Pemasukan,penjualan,87765,Pemasukan - penjualan
+2024-08-10,Pengeluaran,perlengkapan,437547,Pengeluaran - perlengkapan
+2024-01-16,Pemasukan,penjualan,419829,Pemasukan - penjualan
+2024-12-20,Pemasukan,penjualan,229061,Pemasukan - penjualan
+2024-05-24,Pengeluaran,perlengkapan,172154,Pengeluaran - perlengkapan
+2024-06-07,Pengeluaran,gaji,323248,Pengeluaran - gaji
+2024-03-27,Pemasukan,penjualan,197310,Pemasukan - penjualan
+2024-07-28,Pemasukan,penjualan,290294,Pemasukan - penjualan
+2024-09-05,Pemasukan,penjualan,278362,Pemasukan - penjualan
+2024-06-23,Pengeluaran,listrik,83109,Pengeluaran - listrik
+2024-12-28,Pemasukan,penjualan,374586,Pemasukan - penjualan
+2024-01-05,Pengeluaran,transportasi,339532,Pengeluaran - transportasi
+2024-12-04,Pengeluaran,gaji,72446,Pengeluaran - gaji
+2024-09-27,Pengeluaran,transportasi,180521,Pengeluaran - transportasi
+2024-07-17,Pengeluaran,gaji,172498,Pengeluaran - gaji
+2024-05-06,Pemasukan,penjualan,48599,Pemasukan - penjualan
+2024-03-18,Pemasukan,penjualan,23515,Pemasukan - penjualan
+2024-01-30,Pemasukan,penjualan,232385,Pemasukan - penjualan
+2024-10-21,Pemasukan,penjualan,114132,Pemasukan - penjualan
+2024-08-31,Pengeluaran,transportasi,206243,Pengeluaran - transportasi
+2024-02-21,Pemasukan,penjualan,380889,Pemasukan - penjualan
+2024-08-30,Pemasukan,penjualan,102748,Pemasukan - penjualan
+2024-02-16,Pengeluaran,transportasi,317234,Pengeluaran - transportasi
+2024-11-30,Pengeluaran,listrik,106738,Pengeluaran - listrik
+2024-09-19,Pemasukan,penjualan,334080,Pemasukan - penjualan
+2024-12-24,Pemasukan,penjualan,491488,Pemasukan - penjualan
+2024-07-09,Pemasukan,penjualan,410691,Pemasukan - penjualan
+2024-11-18,Pemasukan,penjualan,484006,Pemasukan - penjualan
+2024-01-05,Pemasukan,penjualan,81106,Pemasukan - penjualan
+2024-03-26,Pengeluaran,bahan baku,213643,Pengeluaran - bahan baku
+2024-05-05,Pengeluaran,perlengkapan,123358,Pengeluaran - perlengkapan
+2024-08-10,Pengeluaran,transportasi,98516,Pengeluaran - transportasi
+2024-07-10,Pemasukan,penjualan,65111,Pemasukan - penjualan
+2024-09-03,Pemasukan,penjualan,26955,Pemasukan - penjualan
+2024-05-08,Pemasukan,penjualan,376771,Pemasukan - penjualan
+2024-07-12,Pemasukan,penjualan,189828,Pemasukan - penjualan
+2024-03-30,Pemasukan,penjualan,172567,Pemasukan - penjualan
+2024-02-03,Pemasukan,penjualan,212086,Pemasukan - penjualan
+2024-04-29,Pemasukan,penjualan,234867,Pemasukan - penjualan
+2024-02-28,Pengeluaran,perlengkapan,145080,Pengeluaran - perlengkapan
+2024-07-25,Pemasukan,penjualan,86690,Pemasukan - penjualan
+2024-11-09,Pemasukan,penjualan,141332,Pemasukan - penjualan
+2024-04-16,Pengeluaran,listrik,459776,Pengeluaran - listrik
+2024-07-02,Pemasukan,penjualan,148780,Pemasukan - penjualan
+2024-06-30,Pengeluaran,gaji,33698,Pengeluaran - gaji
+2024-11-23,Pemasukan,penjualan,319827,Pemasukan - penjualan
+2024-11-11,Pemasukan,penjualan,348642,Pemasukan - penjualan
+2024-04-01,Pemasukan,penjualan,372644,Pemasukan - penjualan
+2024-11-28,Pemasukan,penjualan,341308,Pemasukan - penjualan
+2024-02-05,Pengeluaran,gaji,43402,Pengeluaran - gaji
+2024-07-07,Pengeluaran,bahan baku,251584,Pengeluaran - bahan baku
+2024-12-15,Pengeluaran,listrik,494765,Pengeluaran - listrik
+2024-06-25,Pemasukan,penjualan,220342,Pemasukan - penjualan
+2024-04-10,Pemasukan,penjualan,197160,Pemasukan - penjualan
+2024-01-13,Pemasukan,penjualan,439132,Pemasukan - penjualan
+2024-03-25,Pengeluaran,bahan baku,330809,Pengeluaran - bahan baku
+2024-07-24,Pengeluaran,bahan baku,325882,Pengeluaran - bahan baku
+2024-02-18,Pemasukan,penjualan,90801,Pemasukan - penjualan
+2024-02-19,Pemasukan,penjualan,16657,Pemasukan - penjualan
+2024-02-27,Pengeluaran,perlengkapan,76184,Pengeluaran - perlengkapan
+2024-10-30,Pengeluaran,transportasi,194749,Pengeluaran - transportasi
+2024-05-21,Pemasukan,penjualan,227939,Pemasukan - penjualan
+2024-01-17,Pemasukan,penjualan,487587,Pemasukan - penjualan
+2024-04-15,Pengeluaran,perlengkapan,292090,Pengeluaran - perlengkapan
+2024-08-22,Pemasukan,penjualan,41328,Pemasukan - penjualan
+2024-11-03,Pengeluaran,listrik,43513,Pengeluaran - listrik
+2024-06-07,Pemasukan,penjualan,217337,Pemasukan - penjualan
+2024-07-26,Pengeluaran,listrik,204134,Pengeluaran - listrik
+2024-06-01,Pemasukan,penjualan,374816,Pemasukan - penjualan
+2024-09-13,Pengeluaran,transportasi,334185,Pengeluaran - transportasi
+2024-03-15,Pengeluaran,perlengkapan,97458,Pengeluaran - perlengkapan
+2024-07-12,Pengeluaran,listrik,396443,Pengeluaran - listrik
+2024-10-01,Pengeluaran,listrik,66224,Pengeluaran - listrik
+2024-11-25,Pemasukan,penjualan,16843,Pemasukan - penjualan
+2024-02-29,Pengeluaran,perlengkapan,92837,Pengeluaran - perlengkapan
+2024-09-20,Pengeluaran,listrik,290346,Pengeluaran - listrik
+2024-09-21,Pengeluaran,listrik,477199,Pengeluaran - listrik
+2024-11-07,Pengeluaran,listrik,133657,Pengeluaran - listrik
+2024-01-11,Pengeluaran,transportasi,241023,Pengeluaran - transportasi
+2024-08-30,Pemasukan,penjualan,383765,Pemasukan - penjualan
+2024-09-23,Pengeluaran,gaji,438945,Pengeluaran - gaji
+2024-02-24,Pemasukan,penjualan,473940,Pemasukan - penjualan
+2024-08-11,Pengeluaran,perlengkapan,438170,Pengeluaran - perlengkapan
+2024-06-08,Pemasukan,penjualan,194630,Pemasukan - penjualan
+2024-09-17,Pemasukan,penjualan,431973,Pemasukan - penjualan
+2024-10-25,Pengeluaran,listrik,238323,Pengeluaran - listrik
+2024-05-13,Pemasukan,penjualan,338575,Pemasukan - penjualan
+2024-07-05,Pengeluaran,bahan baku,100842,Pengeluaran - bahan baku
+2024-02-09,Pemasukan,penjualan,484772,Pemasukan - penjualan
+2024-03-08,Pemasukan,penjualan,51022,Pemasukan - penjualan
+2024-01-03,Pemasukan,penjualan,27410,Pemasukan - penjualan
+2024-10-16,Pemasukan,penjualan,94736,Pemasukan - penjualan
+2024-11-01,Pemasukan,penjualan,396865,Pemasukan - penjualan
+2024-09-05,Pemasukan,penjualan,15308,Pemasukan - penjualan
+2024-09-02,Pengeluaran,perlengkapan,410192,Pengeluaran - perlengkapan
+2024-01-04,Pemasukan,penjualan,166864,Pemasukan - penjualan
+2024-07-21,Pemasukan,penjualan,383700,Pemasukan - penjualan
+2024-12-01,Pengeluaran,transportasi,431540,Pengeluaran - transportasi
+2024-03-22,Pengeluaran,perlengkapan,441209,Pengeluaran - perlengkapan
+2024-01-14,Pemasukan,penjualan,364043,Pemasukan - penjualan
+2024-01-16,Pemasukan,penjualan,499800,Pemasukan - penjualan
+2024-07-27,Pengeluaran,bahan baku,87430,Pengeluaran - bahan baku
+2024-06-17,Pemasukan,penjualan,57933,Pemasukan - penjualan
+2024-03-25,Pemasukan,penjualan,26178,Pemasukan - penjualan
+2024-01-24,Pemasukan,penjualan,487347,Pemasukan - penjualan
+2024-11-08,Pengeluaran,transportasi,421738,Pengeluaran - transportasi
+2024-10-16,Pengeluaran,perlengkapan,266467,Pengeluaran - perlengkapan
+2024-12-11,Pemasukan,penjualan,142932,Pemasukan - penjualan
+2024-12-20,Pemasukan,penjualan,128697,Pemasukan - penjualan
+2024-02-28,Pemasukan,penjualan,106511,Pemasukan - penjualan
+2024-08-13,Pemasukan,penjualan,321537,Pemasukan - penjualan
+2024-10-21,Pemasukan,penjualan,443398,Pemasukan - penjualan
+2024-02-21,Pemasukan,penjualan,409144,Pemasukan - penjualan
+2024-08-06,Pengeluaran,listrik,401367,Pengeluaran - listrik
+2024-02-06,Pengeluaran,listrik,152302,Pengeluaran - listrik
+2024-09-14,Pengeluaran,gaji,93490,Pengeluaran - gaji
+2024-02-26,Pemasukan,penjualan,404401,Pemasukan - penjualan
+2024-04-29,Pemasukan,penjualan,261772,Pemasukan - penjualan
+2024-09-17,Pengeluaran,gaji,498792,Pengeluaran - gaji
+2024-01-01,Pemasukan,penjualan,122669,Pemasukan - penjualan
+2024-06-11,Pemasukan,penjualan,136581,Pemasukan - penjualan
+2024-09-18,Pengeluaran,gaji,199191,Pengeluaran - gaji
+2024-11-20,Pengeluaran,perlengkapan,429702,Pengeluaran - perlengkapan
+2024-06-27,Pemasukan,penjualan,139203,Pemasukan - penjualan
+2024-05-06,Pengeluaran,gaji,301364,Pengeluaran - gaji
+2024-05-18,Pengeluaran,bahan baku,284236,Pengeluaran - bahan baku
+2024-02-05,Pemasukan,penjualan,44832,Pemasukan - penjualan
+2024-01-06,Pengeluaran,listrik,429228,Pengeluaran - listrik
+2024-09-08,Pemasukan,penjualan,11903,Pemasukan - penjualan
+2024-04-16,Pengeluaran,gaji,139422,Pengeluaran - gaji
+2024-04-16,Pengeluaran,listrik,330200,Pengeluaran - listrik
+2024-06-04,Pengeluaran,perlengkapan,82083,Pengeluaran - perlengkapan
+2024-03-12,Pengeluaran,gaji,166608,Pengeluaran - gaji
+2024-04-06,Pengeluaran,bahan baku,279569,Pengeluaran - bahan baku
+2024-07-24,Pengeluaran,transportasi,440876,Pengeluaran - transportasi
+2024-01-17,Pengeluaran,listrik,176691,Pengeluaran - listrik
+2024-11-01,Pengeluaran,bahan baku,173343,Pengeluaran - bahan baku
+2024-06-16,Pemasukan,penjualan,450721,Pemasukan - penjualan
+2024-04-15,Pengeluaran,gaji,133084,Pengeluaran - gaji
+2024-12-27,Pengeluaran,transportasi,141882,Pengeluaran - transportasi
+2024-08-19,Pengeluaran,listrik,101295,Pengeluaran - listrik
+2024-01-24,Pemasukan,penjualan,254562,Pemasukan - penjualan
+2024-06-17,Pengeluaran,listrik,304974,Pengeluaran - listrik
+2024-08-13,Pengeluaran,bahan baku,119288,Pengeluaran - bahan baku
+2024-09-11,Pengeluaran,transportasi,264121,Pengeluaran - transportasi
+2024-10-17,Pemasukan,penjualan,486865,Pemasukan - penjualan
+2024-03-30,Pemasukan,penjualan,69563,Pemasukan - penjualan
+2024-09-21,Pengeluaran,perlengkapan,16063,Pengeluaran - perlengkapan
+2024-05-20,Pemasukan,penjualan,304464,Pemasukan - penjualan
+2024-12-21,Pemasukan,penjualan,62060,Pemasukan - penjualan
+2024-01-13,Pemasukan,penjualan,194582,Pemasukan - penjualan
+2024-06-07,Pemasukan,penjualan,261037,Pemasukan - penjualan
+2024-11-12,Pemasukan,penjualan,266566,Pemasukan - penjualan
+2024-03-10,Pengeluaran,transportasi,486499,Pengeluaran - transportasi
+2024-04-20,Pengeluaran,perlengkapan,370433,Pengeluaran - perlengkapan
+2024-12-08,Pengeluaran,listrik,377739,Pengeluaran - listrik
+2024-07-16,Pemasukan,penjualan,123233,Pemasukan - penjualan
+2024-06-13,Pengeluaran,transportasi,90682,Pengeluaran - transportasi
+2024-06-27,Pemasukan,penjualan,123878,Pemasukan - penjualan
+2024-05-17,Pengeluaran,bahan baku,149918,Pengeluaran - bahan baku
+2024-11-16,Pemasukan,penjualan,320920,Pemasukan - penjualan
+2024-09-06,Pengeluaran,bahan baku,132392,Pengeluaran - bahan baku
+2024-11-13,Pengeluaran,listrik,371947,Pengeluaran - listrik
+2024-08-16,Pengeluaran,listrik,273442,Pengeluaran - listrik
+2024-04-09,Pengeluaran,bahan baku,53634,Pengeluaran - bahan baku
+2024-03-26,Pemasukan,penjualan,137797,Pemasukan - penjualan
+2024-08-07,Pengeluaran,listrik,151415,Pengeluaran - listrik
+2024-12-13,Pengeluaran,perlengkapan,462586,Pengeluaran - perlengkapan
+2024-12-10,Pemasukan,penjualan,322696,Pemasukan - penjualan
+2024-05-08,Pengeluaran,listrik,134366,Pengeluaran - listrik
+2024-08-23,Pengeluaran,bahan baku,185605,Pengeluaran - bahan baku
+2024-03-30,Pemasukan,penjualan,15058,Pemasukan - penjualan
+2024-06-21,Pengeluaran,transportasi,191344,Pengeluaran - transportasi
+2024-05-05,Pemasukan,penjualan,184534,Pemasukan - penjualan
+2024-11-27,Pemasukan,penjualan,95562,Pemasukan - penjualan
+2024-06-09,Pengeluaran,gaji,23432,Pengeluaran - gaji
+2024-12-13,Pemasukan,penjualan,46942,Pemasukan - penjualan
+2024-12-19,Pemasukan,penjualan,172420,Pemasukan - penjualan
+2024-02-27,Pengeluaran,perlengkapan,276462,Pengeluaran - perlengkapan
+2024-12-30,Pengeluaran,gaji,105313,Pengeluaran - gaji
+2024-03-16,Pengeluaran,gaji,51231,Pengeluaran - gaji
+2024-06-02,Pemasukan,penjualan,43006,Pemasukan - penjualan
+2024-10-22,Pemasukan,penjualan,316314,Pemasukan - penjualan
+2024-12-27,Pemasukan,penjualan,278910,Pemasukan - penjualan
+2024-06-21,Pemasukan,penjualan,336756,Pemasukan - penjualan
+2024-09-17,Pengeluaran,perlengkapan,461481,Pengeluaran - perlengkapan
+2024-12-16,Pengeluaran,perlengkapan,409381,Pengeluaran - perlengkapan
+2024-04-02,Pemasukan,penjualan,121096,Pemasukan - penjualan
+2024-12-21,Pengeluaran,perlengkapan,94199,Pengeluaran - perlengkapan
+2024-09-17,Pemasukan,penjualan,80683,Pemasukan - penjualan
+2024-03-17,Pemasukan,penjualan,117517,Pemasukan - penjualan
+2024-12-21,Pengeluaran,listrik,129137,Pengeluaran - listrik
+2024-01-30,Pengeluaran,gaji,391982,Pengeluaran - gaji
+2024-06-10,Pemasukan,penjualan,144231,Pemasukan - penjualan
+2024-02-03,Pengeluaran,listrik,34287,Pengeluaran - listrik
+2024-02-15,Pengeluaran,bahan baku,85335,Pengeluaran - bahan baku
+2024-10-25,Pemasukan,penjualan,147784,Pemasukan - penjualan
+2024-02-11,Pengeluaran,bahan baku,318343,Pengeluaran - bahan baku
+2024-06-06,Pengeluaran,bahan baku,357654,Pengeluaran - bahan baku
+2024-03-28,Pengeluaran,perlengkapan,26856,Pengeluaran - perlengkapan
+2024-07-09,Pengeluaran,bahan baku,450338,Pengeluaran - bahan baku
+2024-05-13,Pemasukan,penjualan,237559,Pemasukan - penjualan
+2024-04-24,Pemasukan,penjualan,372692,Pemasukan - penjualan
+2024-09-03,Pemasukan,penjualan,302161,Pemasukan - penjualan
+2024-01-05,Pengeluaran,bahan baku,105848,Pengeluaran - bahan baku
+2024-01-03,Pemasukan,penjualan,257747,Pemasukan - penjualan
+2024-01-22,Pengeluaran,gaji,462044,Pengeluaran - gaji
+2024-05-27,Pemasukan,penjualan,174278,Pemasukan - penjualan
+2024-01-13,Pengeluaran,transportasi,440402,Pengeluaran - transportasi
+2024-06-10,Pemasukan,penjualan,29849,Pemasukan - penjualan
+2024-03-05,Pemasukan,penjualan,267308,Pemasukan - penjualan
+2024-02-26,Pengeluaran,transportasi,317829,Pengeluaran - transportasi
+2024-12-23,Pengeluaran,bahan baku,53498,Pengeluaran - bahan baku
+2024-07-29,Pemasukan,penjualan,293733,Pemasukan - penjualan
+2024-12-23,Pemasukan,penjualan,234454,Pemasukan - penjualan
+2024-10-13,Pengeluaran,gaji,405781,Pengeluaran - gaji
+2024-05-30,Pengeluaran,listrik,190898,Pengeluaran - listrik
+2024-06-02,Pengeluaran,transportasi,182258,Pengeluaran - transportasi
+2024-04-01,Pengeluaran,gaji,115821,Pengeluaran - gaji
+2024-07-01,Pengeluaran,gaji,113283,Pengeluaran - gaji
+2024-04-11,Pemasukan,penjualan,183984,Pemasukan - penjualan
+2024-01-01,Pemasukan,penjualan,376323,Pemasukan - penjualan
+2024-12-20,Pengeluaran,gaji,361043,Pengeluaran - gaji
+2024-12-25,Pengeluaran,transportasi,376233,Pengeluaran - transportasi
+2024-12-29,Pengeluaran,listrik,495607,Pengeluaran - listrik
+2024-01-15,Pengeluaran,perlengkapan,213200,Pengeluaran - perlengkapan
+2024-10-25,Pengeluaran,transportasi,35478,Pengeluaran - transportasi
+2024-03-04,Pemasukan,penjualan,345042,Pemasukan - penjualan
+2024-05-04,Pengeluaran,gaji,266476,Pengeluaran - gaji
+2024-01-04,Pemasukan,penjualan,165339,Pemasukan - penjualan
+2024-09-10,Pemasukan,penjualan,425871,Pemasukan - penjualan
+2024-07-17,Pengeluaran,gaji,408449,Pengeluaran - gaji
+2024-09-13,Pemasukan,penjualan,468384,Pemasukan - penjualan
+2024-07-05,Pengeluaran,bahan baku,388874,Pengeluaran - bahan baku
+2024-05-27,Pengeluaran,listrik,252203,Pengeluaran - listrik
+2024-05-30,Pemasukan,penjualan,91258,Pemasukan - penjualan
+2024-12-30,Pengeluaran,gaji,349383,Pengeluaran - gaji
+2024-10-12,Pengeluaran,bahan baku,365519,Pengeluaran - bahan baku
+2024-11-15,Pengeluaran,transportasi,335852,Pengeluaran - transportasi
+2024-08-14,Pengeluaran,bahan baku,57869,Pengeluaran - bahan baku
+2024-08-02,Pengeluaran,listrik,33328,Pengeluaran - listrik
+2024-05-30,Pengeluaran,gaji,378703,Pengeluaran - gaji
+2024-08-01,Pengeluaran,transportasi,58272,Pengeluaran - transportasi
+2024-05-31,Pengeluaran,bahan baku,98257,Pengeluaran - bahan baku
+2024-10-09,Pengeluaran,bahan baku,112205,Pengeluaran - bahan baku
+2024-12-12,Pemasukan,penjualan,112044,Pemasukan - penjualan
+2024-06-16,Pengeluaran,bahan baku,467859,Pengeluaran - bahan baku
+2024-12-04,Pemasukan,penjualan,424197,Pemasukan - penjualan
+2024-06-10,Pengeluaran,transportasi,49209,Pengeluaran - transportasi
+2024-01-12,Pengeluaran,gaji,387436,Pengeluaran - gaji
+2024-06-06,Pengeluaran,transportasi,231924,Pengeluaran - transportasi
+2024-04-28,Pengeluaran,transportasi,164650,Pengeluaran - transportasi
+2024-12-19,Pengeluaran,perlengkapan,163454,Pengeluaran - perlengkapan
+2024-11-15,Pengeluaran,perlengkapan,57927,Pengeluaran - perlengkapan
+2024-03-15,Pengeluaran,bahan baku,202851,Pengeluaran - bahan baku
+2024-11-22,Pemasukan,penjualan,250410,Pemasukan - penjualan
+2024-04-01,Pengeluaran,transportasi,51124,Pengeluaran - transportasi
+2024-02-11,Pemasukan,penjualan,260211,Pemasukan - penjualan
+2024-05-19,Pengeluaran,listrik,200473,Pengeluaran - listrik
+2024-11-02,Pemasukan,penjualan,496647,Pemasukan - penjualan
+2024-08-11,Pemasukan,penjualan,365831,Pemasukan - penjualan
+2024-11-16,Pengeluaran,gaji,56974,Pengeluaran - gaji
+2024-09-27,Pengeluaran,gaji,336559,Pengeluaran - gaji
+2024-08-10,Pemasukan,penjualan,189870,Pemasukan - penjualan
+2024-06-01,Pengeluaran,gaji,266960,Pengeluaran - gaji
+2024-08-03,Pengeluaran,transportasi,246449,Pengeluaran - transportasi
+2024-08-13,Pengeluaran,listrik,463303,Pengeluaran - listrik
+2024-10-09,Pemasukan,penjualan,59749,Pemasukan - penjualan
+2024-09-30,Pengeluaran,transportasi,34792,Pengeluaran - transportasi
+2024-02-26,Pemasukan,penjualan,69847,Pemasukan - penjualan
+2024-09-10,Pemasukan,penjualan,364030,Pemasukan - penjualan
+2024-04-07,Pengeluaran,listrik,201144,Pengeluaran - listrik
+2024-07-11,Pengeluaran,transportasi,380731,Pengeluaran - transportasi
+2024-10-24,Pengeluaran,listrik,257350,Pengeluaran - listrik
+2024-07-08,Pemasukan,penjualan,218726,Pemasukan - penjualan
+2024-12-11,Pengeluaran,bahan baku,192364,Pengeluaran - bahan baku
+2024-03-29,Pengeluaran,transportasi,437515,Pengeluaran - transportasi
+2024-12-06,Pengeluaran,bahan baku,210073,Pengeluaran - bahan baku
+2024-10-15,Pengeluaran,transportasi,403672,Pengeluaran - transportasi
+2024-07-10,Pengeluaran,listrik,445515,Pengeluaran - listrik
+2024-06-02,Pemasukan,penjualan,427026,Pemasukan - penjualan
+2024-03-26,Pemasukan,penjualan,405509,Pemasukan - penjualan
+2024-06-23,Pengeluaran,gaji,46354,Pengeluaran - gaji
+2024-05-26,Pengeluaran,listrik,274960,Pengeluaran - listrik
+2024-01-21,Pemasukan,penjualan,389416,Pemasukan - penjualan
+2024-02-12,Pengeluaran,listrik,158073,Pengeluaran - listrik
+2024-07-21,Pemasukan,penjualan,343846,Pemasukan - penjualan
+2024-02-12,Pengeluaran,transportasi,108545,Pengeluaran - transportasi
+2024-03-02,Pengeluaran,perlengkapan,302620,Pengeluaran - perlengkapan
+2024-12-15,Pemasukan,penjualan,86642,Pemasukan - penjualan
+2024-05-12,Pengeluaran,transportasi,114945,Pengeluaran - transportasi
+2024-11-12,Pengeluaran,bahan baku,404211,Pengeluaran - bahan baku
+2024-06-14,Pengeluaran,bahan baku,373127,Pengeluaran - bahan baku
+2024-09-18,Pengeluaran,transportasi,367675,Pengeluaran - transportasi
+2024-03-05,Pemasukan,penjualan,50136,Pemasukan - penjualan
+2024-04-14,Pemasukan,penjualan,115018,Pemasukan - penjualan
+2024-08-03,Pengeluaran,gaji,34035,Pengeluaran - gaji
+2024-08-10,Pengeluaran,transportasi,394820,Pengeluaran - transportasi
+2024-06-30,Pengeluaran,bahan baku,379269,Pengeluaran - bahan baku
+2024-11-15,Pengeluaran,perlengkapan,491559,Pengeluaran - perlengkapan
+2024-03-31,Pemasukan,penjualan,186267,Pemasukan - penjualan
+2024-08-01,Pengeluaran,perlengkapan,117834,Pengeluaran - perlengkapan
+2024-10-11,Pemasukan,penjualan,53163,Pemasukan - penjualan
+2024-08-23,Pemasukan,penjualan,296514,Pemasukan - penjualan
+2024-02-19,Pemasukan,penjualan,293353,Pemasukan - penjualan
+2024-08-05,Pemasukan,penjualan,427747,Pemasukan - penjualan
+2024-10-09,Pemasukan,penjualan,354647,Pemasukan - penjualan
+2024-06-15,Pemasukan,penjualan,16183,Pemasukan - penjualan
+2024-10-02,Pemasukan,penjualan,116091,Pemasukan - penjualan
+2024-03-24,Pengeluaran,perlengkapan,236928,Pengeluaran - perlengkapan
+2024-01-02,Pengeluaran,perlengkapan,86560,Pengeluaran - perlengkapan
+2024-12-07,Pemasukan,penjualan,32420,Pemasukan - penjualan
+2024-02-01,Pemasukan,penjualan,52436,Pemasukan - penjualan
+2024-08-02,Pemasukan,penjualan,25598,Pemasukan - penjualan
+2024-01-27,Pemasukan,penjualan,395729,Pemasukan - penjualan
+2024-04-12,Pemasukan,penjualan,222814,Pemasukan - penjualan
+2024-07-18,Pemasukan,penjualan,190856,Pemasukan - penjualan
+2024-07-19,Pemasukan,penjualan,499342,Pemasukan - penjualan
+2024-04-06,Pengeluaran,transportasi,452659,Pengeluaran - transportasi
+2024-03-17,Pemasukan,penjualan,220355,Pemasukan - penjualan
+2024-06-27,Pemasukan,penjualan,111411,Pemasukan - penjualan
+2024-08-29,Pengeluaran,listrik,308937,Pengeluaran - listrik
+2024-10-11,Pengeluaran,gaji,192151,Pengeluaran - gaji
+2024-08-09,Pemasukan,penjualan,487334,Pemasukan - penjualan
+2024-11-20,Pengeluaran,gaji,194491,Pengeluaran - gaji
+2024-06-06,Pemasukan,penjualan,11467,Pemasukan - penjualan
+2024-09-23,Pemasukan,penjualan,96121,Pemasukan - penjualan
+2024-02-29,Pengeluaran,gaji,368922,Pengeluaran - gaji
+2024-08-31,Pengeluaran,bahan baku,191695,Pengeluaran - bahan baku
+2024-04-21,Pemasukan,penjualan,398273,Pemasukan - penjualan
+2024-06-04,Pemasukan,penjualan,389113,Pemasukan - penjualan
+2024-07-29,Pemasukan,penjualan,73859,Pemasukan - penjualan
+2024-10-29,Pemasukan,penjualan,497137,Pemasukan - penjualan
+2024-04-24,Pemasukan,penjualan,254291,Pemasukan - penjualan
+2024-07-13,Pengeluaran,listrik,23338,Pengeluaran - listrik
+2024-08-03,Pengeluaran,gaji,269189,Pengeluaran - gaji
+2024-11-06,Pemasukan,penjualan,459399,Pemasukan - penjualan
+2024-04-30,Pengeluaran,gaji,230801,Pengeluaran - gaji
+2024-07-13,Pengeluaran,listrik,167596,Pengeluaran - listrik
+2024-10-09,Pemasukan,penjualan,200414,Pemasukan - penjualan
+2024-11-01,Pengeluaran,bahan baku,409714,Pengeluaran - bahan baku
+2024-09-28,Pemasukan,penjualan,474385,Pemasukan - penjualan
+2024-04-14,Pemasukan,penjualan,239307,Pemasukan - penjualan
+2024-04-17,Pengeluaran,perlengkapan,64878,Pengeluaran - perlengkapan
+2024-06-14,Pemasukan,penjualan,161018,Pemasukan - penjualan
+2024-04-25,Pengeluaran,perlengkapan,29965,Pengeluaran - perlengkapan
+2024-12-19,Pengeluaran,listrik,159400,Pengeluaran - listrik
+2024-11-07,Pengeluaran,transportasi,13632,Pengeluaran - transportasi
+2024-03-02,Pengeluaran,bahan baku,89128,Pengeluaran - bahan baku
+2024-05-25,Pemasukan,penjualan,284148,Pemasukan - penjualan
+2024-12-09,Pengeluaran,perlengkapan,474346,Pengeluaran - perlengkapan
+2024-04-27,Pengeluaran,perlengkapan,460887,Pengeluaran - perlengkapan
+2024-06-20,Pemasukan,penjualan,482255,Pemasukan - penjualan
+2024-02-18,Pemasukan,penjualan,411451,Pemasukan - penjualan
+2024-02-14,Pengeluaran,listrik,315293,Pengeluaran - listrik
+2024-01-30,Pengeluaran,perlengkapan,381096,Pengeluaran - perlengkapan
+2024-07-22,Pengeluaran,transportasi,40263,Pengeluaran - transportasi
+2024-10-16,Pemasukan,penjualan,339436,Pemasukan - penjualan
+2024-09-04,Pemasukan,penjualan,374034,Pemasukan - penjualan
+2024-04-13,Pemasukan,penjualan,71003,Pemasukan - penjualan
+2024-12-24,Pemasukan,penjualan,209616,Pemasukan - penjualan
+2024-01-12,Pemasukan,penjualan,148826,Pemasukan - penjualan
+2024-02-04,Pengeluaran,listrik,238828,Pengeluaran - listrik
+2024-10-27,Pemasukan,penjualan,34068,Pemasukan - penjualan
+2024-02-18,Pemasukan,penjualan,492252,Pemasukan - penjualan
+2024-06-06,Pengeluaran,perlengkapan,428993,Pengeluaran - perlengkapan
+2024-09-08,Pemasukan,penjualan,333851,Pemasukan - penjualan
+2024-03-05,Pemasukan,penjualan,137640,Pemasukan - penjualan
+2024-11-29,Pemasukan,penjualan,41529,Pemasukan - penjualan
+2024-03-15,Pemasukan,penjualan,15919,Pemasukan - penjualan
+2024-01-14,Pemasukan,penjualan,212437,Pemasukan - penjualan
+2024-03-09,Pemasukan,penjualan,475959,Pemasukan - penjualan
+2024-07-19,Pengeluaran,bahan baku,467142,Pengeluaran - bahan baku
+2024-07-22,Pengeluaran,perlengkapan,354172,Pengeluaran - perlengkapan
+2024-10-19,Pemasukan,penjualan,17867,Pemasukan - penjualan
+2024-11-26,Pemasukan,penjualan,99194,Pemasukan - penjualan
+2024-09-21,Pengeluaran,gaji,181088,Pengeluaran - gaji
+2024-12-22,Pengeluaran,transportasi,484646,Pengeluaran - transportasi
+2024-04-22,Pengeluaran,listrik,67544,Pengeluaran - listrik
+2024-10-19,Pemasukan,penjualan,325797,Pemasukan - penjualan
+2024-02-10,Pemasukan,penjualan,13973,Pemasukan - penjualan
+2024-05-02,Pemasukan,penjualan,58482,Pemasukan - penjualan
+2024-12-20,Pemasukan,penjualan,421522,Pemasukan - penjualan
+2024-01-04,Pemasukan,penjualan,162796,Pemasukan - penjualan
+2024-04-26,Pengeluaran,gaji,418894,Pengeluaran - gaji
+2024-08-24,Pemasukan,penjualan,426089,Pemasukan - penjualan
+2024-04-07,Pengeluaran,bahan baku,417428,Pengeluaran - bahan baku
+2024-10-08,Pengeluaran,bahan baku,41409,Pengeluaran - bahan baku
+2024-06-08,Pemasukan,penjualan,405223,Pemasukan - penjualan
+2024-05-24,Pemasukan,penjualan,31958,Pemasukan - penjualan
+2024-09-11,Pemasukan,penjualan,348426,Pemasukan - penjualan
+2024-06-27,Pengeluaran,transportasi,83231,Pengeluaran - transportasi
+2024-07-26,Pemasukan,penjualan,413380,Pemasukan - penjualan
+2024-02-11,Pemasukan,penjualan,422432,Pemasukan - penjualan
+2024-07-20,Pemasukan,penjualan,119614,Pemasukan - penjualan
+2024-12-08,Pengeluaran,gaji,465056,Pengeluaran - gaji
+2024-02-17,Pengeluaran,listrik,136713,Pengeluaran - listrik
+2024-07-21,Pengeluaran,gaji,412581,Pengeluaran - gaji
+2024-02-02,Pemasukan,penjualan,53578,Pemasukan - penjualan
+2024-01-30,Pemasukan,penjualan,22467,Pemasukan - penjualan
+2024-10-29,Pemasukan,penjualan,310835,Pemasukan - penjualan
+2024-03-27,Pemasukan,penjualan,397500,Pemasukan - penjualan
+2024-03-10,Pemasukan,penjualan,148486,Pemasukan - penjualan
+2024-07-26,Pengeluaran,transportasi,282033,Pengeluaran - transportasi
+2024-01-13,Pengeluaran,bahan baku,25002,Pengeluaran - bahan baku
+2024-08-29,Pengeluaran,bahan baku,388641,Pengeluaran - bahan baku
+2024-04-05,Pemasukan,penjualan,294219,Pemasukan - penjualan
+2024-03-17,Pemasukan,penjualan,429225,Pemasukan - penjualan
+2024-05-03,Pengeluaran,bahan baku,63619,Pengeluaran - bahan baku
+2024-01-10,Pemasukan,penjualan,68119,Pemasukan - penjualan
+2024-04-18,Pemasukan,penjualan,468490,Pemasukan - penjualan
+2024-01-09,Pengeluaran,gaji,436427,Pengeluaran - gaji
+2024-10-28,Pemasukan,penjualan,457237,Pemasukan - penjualan
+2024-11-12,Pemasukan,penjualan,166447,Pemasukan - penjualan
+2024-01-04,Pengeluaran,transportasi,198308,Pengeluaran - transportasi
+2024-12-09,Pengeluaran,bahan baku,387297,Pengeluaran - bahan baku
+2024-08-16,Pemasukan,penjualan,395178,Pemasukan - penjualan
+2024-10-18,Pemasukan,penjualan,361148,Pemasukan - penjualan
+2024-10-11,Pemasukan,penjualan,266469,Pemasukan - penjualan
+2024-10-22,Pengeluaran,perlengkapan,394948,Pengeluaran - perlengkapan
+2024-08-22,Pengeluaran,listrik,113937,Pengeluaran - listrik
+2024-01-01,Pengeluaran,bahan baku,77520,Pengeluaran - bahan baku
+2024-05-25,Pengeluaran,transportasi,437083,Pengeluaran - transportasi
+2024-08-05,Pemasukan,penjualan,69581,Pemasukan - penjualan
+2024-12-03,Pengeluaran,bahan baku,185192,Pengeluaran - bahan baku
+2024-03-20,Pengeluaran,transportasi,214146,Pengeluaran - transportasi
+2024-06-19,Pengeluaran,perlengkapan,232819,Pengeluaran - perlengkapan
+2024-12-16,Pemasukan,penjualan,398385,Pemasukan - penjualan
+2024-09-13,Pengeluaran,transportasi,241919,Pengeluaran - transportasi
+2024-04-25,Pengeluaran,perlengkapan,251912,Pengeluaran - perlengkapan
+2024-11-06,Pemasukan,penjualan,13540,Pemasukan - penjualan
+2024-07-02,Pengeluaran,perlengkapan,104854,Pengeluaran - perlengkapan
+2024-03-16,Pemasukan,penjualan,281919,Pemasukan - penjualan
+2024-05-08,Pengeluaran,perlengkapan,199319,Pengeluaran - perlengkapan
+2024-06-10,Pemasukan,penjualan,30577,Pemasukan - penjualan
+2024-12-10,Pemasukan,penjualan,462062,Pemasukan - penjualan
+2024-05-11,Pemasukan,penjualan,467638,Pemasukan - penjualan
+2024-08-24,Pemasukan,penjualan,325107,Pemasukan - penjualan
+2024-07-18,Pengeluaran,transportasi,108579,Pengeluaran - transportasi
+2024-12-19,Pengeluaran,bahan baku,28757,Pengeluaran - bahan baku
+2024-11-19,Pemasukan,penjualan,308512,Pemasukan - penjualan
+2024-09-17,Pengeluaran,transportasi,449813,Pengeluaran - transportasi
+2024-03-10,Pemasukan,penjualan,176936,Pemasukan - penjualan
+2024-12-11,Pemasukan,penjualan,427594,Pemasukan - penjualan
+2024-12-19,Pemasukan,penjualan,46413,Pemasukan - penjualan
+2024-06-20,Pengeluaran,transportasi,422920,Pengeluaran - transportasi
+2024-05-15,Pemasukan,penjualan,390472,Pemasukan - penjualan
+2024-08-03,Pemasukan,penjualan,172741,Pemasukan - penjualan
+2024-03-17,Pemasukan,penjualan,336096,Pemasukan - penjualan
+2024-12-01,Pemasukan,penjualan,354519,Pemasukan - penjualan
+2024-01-17,Pengeluaran,bahan baku,227666,Pengeluaran - bahan baku
+2024-02-12,Pengeluaran,gaji,66508,Pengeluaran - gaji
+2024-11-19,Pemasukan,penjualan,30434,Pemasukan - penjualan
+2024-04-30,Pengeluaran,gaji,237897,Pengeluaran - gaji
+2024-02-09,Pemasukan,penjualan,153351,Pemasukan - penjualan
+2024-07-06,Pemasukan,penjualan,358544,Pemasukan - penjualan
+2024-10-27,Pengeluaran,listrik,114449,Pengeluaran - listrik
+2024-02-10,Pemasukan,penjualan,477405,Pemasukan - penjualan
+2024-05-15,Pemasukan,penjualan,118171,Pemasukan - penjualan
+2024-10-06,Pemasukan,penjualan,57551,Pemasukan - penjualan
+2024-09-26,Pemasukan,penjualan,83417,Pemasukan - penjualan
+2024-03-22,Pemasukan,penjualan,187512,Pemasukan - penjualan
+2024-03-25,Pemasukan,penjualan,436799,Pemasukan - penjualan
+2024-06-27,Pengeluaran,transportasi,165364,Pengeluaran - transportasi
+2024-02-24,Pengeluaran,bahan baku,45492,Pengeluaran - bahan baku
+2024-07-11,Pengeluaran,listrik,325463,Pengeluaran - listrik
+2024-08-16,Pengeluaran,perlengkapan,115858,Pengeluaran - perlengkapan
+2024-09-09,Pemasukan,penjualan,192456,Pemasukan - penjualan
+2024-06-12,Pengeluaran,transportasi,364522,Pengeluaran - transportasi
+2024-09-05,Pemasukan,penjualan,49479,Pemasukan - penjualan
+2024-09-17,Pemasukan,penjualan,451372,Pemasukan - penjualan
+2024-05-29,Pengeluaran,gaji,32819,Pengeluaran - gaji
+2024-10-12,Pemasukan,penjualan,189585,Pemasukan - penjualan
+2024-10-15,Pemasukan,penjualan,436095,Pemasukan - penjualan
+2024-03-13,Pemasukan,penjualan,499997,Pemasukan - penjualan
+2024-02-10,Pengeluaran,bahan baku,375158,Pengeluaran - bahan baku
+2024-07-20,Pengeluaran,transportasi,68255,Pengeluaran - transportasi
+2024-08-07,Pengeluaran,perlengkapan,57353,Pengeluaran - perlengkapan
+2024-06-27,Pengeluaran,transportasi,58603,Pengeluaran - transportasi
+2024-03-22,Pengeluaran,perlengkapan,355480,Pengeluaran - perlengkapan
+2024-01-10,Pengeluaran,bahan baku,13586,Pengeluaran - bahan baku
+2024-08-09,Pemasukan,penjualan,103573,Pemasukan - penjualan
+2024-05-28,Pengeluaran,listrik,331061,Pengeluaran - listrik
+2024-11-18,Pengeluaran,gaji,398842,Pengeluaran - gaji
+2024-06-04,Pemasukan,penjualan,168001,Pemasukan - penjualan
+2024-12-15,Pemasukan,penjualan,360770,Pemasukan - penjualan
+2024-10-11,Pemasukan,penjualan,158516,Pemasukan - penjualan
+2024-07-03,Pengeluaran,listrik,169227,Pengeluaran - listrik
+2024-01-01,Pengeluaran,listrik,35456,Pengeluaran - listrik
+2024-09-15,Pemasukan,penjualan,174092,Pemasukan - penjualan
+2024-06-21,Pengeluaran,transportasi,88041,Pengeluaran - transportasi
+2024-02-02,Pengeluaran,listrik,109467,Pengeluaran - listrik
+2024-12-27,Pemasukan,penjualan,26211,Pemasukan - penjualan
+2024-08-12,Pengeluaran,transportasi,105413,Pengeluaran - transportasi
+2024-04-20,Pengeluaran,listrik,308173,Pengeluaran - listrik
+2024-08-26,Pengeluaran,bahan baku,133654,Pengeluaran - bahan baku
+2024-07-27,Pemasukan,penjualan,31758,Pemasukan - penjualan
+2024-10-20,Pengeluaran,gaji,181387,Pengeluaran - gaji
+2024-12-15,Pemasukan,penjualan,187192,Pemasukan - penjualan
+2024-07-28,Pengeluaran,transportasi,23239,Pengeluaran - transportasi
+2024-12-31,Pengeluaran,gaji,457069,Pengeluaran - gaji
+2024-04-25,Pengeluaran,gaji,48711,Pengeluaran - gaji
+2024-03-07,Pengeluaran,transportasi,232720,Pengeluaran - transportasi
+2024-10-11,Pengeluaran,transportasi,430228,Pengeluaran - transportasi
+2024-02-07,Pemasukan,penjualan,324189,Pemasukan - penjualan
+2024-03-26,Pemasukan,penjualan,152610,Pemasukan - penjualan
+2024-12-04,Pengeluaran,bahan baku,139988,Pengeluaran - bahan baku
+2024-08-02,Pengeluaran,transportasi,44824,Pengeluaran - transportasi
+2024-09-09,Pengeluaran,perlengkapan,195387,Pengeluaran - perlengkapan
+2024-07-10,Pemasukan,penjualan,367573,Pemasukan - penjualan
+2024-06-03,Pengeluaran,perlengkapan,285560,Pengeluaran - perlengkapan
+2024-09-23,Pengeluaran,perlengkapan,20012,Pengeluaran - perlengkapan
+2024-12-20,Pengeluaran,gaji,31998,Pengeluaran - gaji
+2024-10-14,Pemasukan,penjualan,55472,Pemasukan - penjualan
+2024-07-05,Pemasukan,penjualan,444760,Pemasukan - penjualan
+2024-10-09,Pemasukan,penjualan,442638,Pemasukan - penjualan
+2024-08-02,Pemasukan,penjualan,215285,Pemasukan - penjualan
+2024-02-11,Pengeluaran,bahan baku,314546,Pengeluaran - bahan baku
+2024-12-10,Pemasukan,penjualan,64050,Pemasukan - penjualan
+2024-10-29,Pemasukan,penjualan,36021,Pemasukan - penjualan
+2024-10-14,Pengeluaran,transportasi,333780,Pengeluaran - transportasi
+2024-08-11,Pengeluaran,listrik,93166,Pengeluaran - listrik
+2024-11-02,Pengeluaran,perlengkapan,390595,Pengeluaran - perlengkapan
+2024-12-07,Pengeluaran,gaji,143549,Pengeluaran - gaji
+2024-09-20,Pemasukan,penjualan,174201,Pemasukan - penjualan
+2024-09-30,Pemasukan,penjualan,347566,Pemasukan - penjualan
+2024-01-25,Pemasukan,penjualan,148982,Pemasukan - penjualan
+2024-12-11,Pemasukan,penjualan,480552,Pemasukan - penjualan
+2024-09-13,Pengeluaran,bahan baku,231569,Pengeluaran - bahan baku
+2024-08-10,Pengeluaran,perlengkapan,177849,Pengeluaran - perlengkapan
+2024-10-16,Pemasukan,penjualan,131460,Pemasukan - penjualan
+2024-09-22,Pemasukan,penjualan,179599,Pemasukan - penjualan
+2024-04-15,Pemasukan,penjualan,192592,Pemasukan - penjualan
+2024-08-09,Pengeluaran,bahan baku,348207,Pengeluaran - bahan baku
+2024-02-06,Pemasukan,penjualan,75476,Pemasukan - penjualan
+2024-09-29,Pemasukan,penjualan,144837,Pemasukan - penjualan
+2024-09-23,Pengeluaran,listrik,377990,Pengeluaran - listrik
+2024-07-26,Pengeluaran,transportasi,64800,Pengeluaran - transportasi
+2024-11-20,Pengeluaran,listrik,399525,Pengeluaran - listrik
+2024-08-05,Pengeluaran,gaji,495275,Pengeluaran - gaji
+2024-04-04,Pemasukan,penjualan,31289,Pemasukan - penjualan
+2024-01-28,Pemasukan,penjualan,246949,Pemasukan - penjualan
+2024-04-06,Pemasukan,penjualan,234120,Pemasukan - penjualan
+2024-10-21,Pengeluaran,listrik,348497,Pengeluaran - listrik
+2024-11-22,Pemasukan,penjualan,21881,Pemasukan - penjualan
+2024-03-22,Pemasukan,penjualan,422588,Pemasukan - penjualan
+2024-01-24,Pemasukan,penjualan,187656,Pemasukan - penjualan
+2024-03-24,Pengeluaran,transportasi,69860,Pengeluaran - transportasi
+2024-06-25,Pemasukan,penjualan,240401,Pemasukan - penjualan
+2024-05-22,Pemasukan,penjualan,136417,Pemasukan - penjualan
+2024-11-02,Pemasukan,penjualan,127375,Pemasukan - penjualan
+2024-11-16,Pemasukan,penjualan,287013,Pemasukan - penjualan
+2024-05-05,Pengeluaran,transportasi,364594,Pengeluaran - transportasi
+2024-12-28,Pemasukan,penjualan,383615,Pemasukan - penjualan
+2024-04-09,Pemasukan,penjualan,490557,Pemasukan - penjualan
+2024-05-08,Pengeluaran,gaji,167196,Pengeluaran - gaji
+2024-07-04,Pengeluaran,bahan baku,235563,Pengeluaran - bahan baku
+2024-11-01,Pengeluaran,perlengkapan,354618,Pengeluaran - perlengkapan
+2024-04-24,Pemasukan,penjualan,281585,Pemasukan - penjualan
+2024-05-10,Pengeluaran,listrik,281499,Pengeluaran - listrik
+2024-04-14,Pengeluaran,listrik,20859,Pengeluaran - listrik
+2024-03-30,Pengeluaran,bahan baku,373144,Pengeluaran - bahan baku
+2024-08-05,Pemasukan,penjualan,417554,Pemasukan - penjualan
+2024-05-16,Pemasukan,penjualan,354309,Pemasukan - penjualan
+2024-05-05,Pemasukan,penjualan,404254,Pemasukan - penjualan
+2024-12-04,Pemasukan,penjualan,143324,Pemasukan - penjualan
+2024-11-01,Pengeluaran,listrik,346038,Pengeluaran - listrik
+2024-02-03,Pemasukan,penjualan,434793,Pemasukan - penjualan
+2024-01-04,Pemasukan,penjualan,212671,Pemasukan - penjualan
+2024-08-19,Pemasukan,penjualan,441062,Pemasukan - penjualan
+2024-12-23,Pengeluaran,gaji,468351,Pengeluaran - gaji
+2024-03-23,Pengeluaran,transportasi,175020,Pengeluaran - transportasi
+2024-05-06,Pengeluaran,listrik,373357,Pengeluaran - listrik
+2024-07-29,Pengeluaran,listrik,263292,Pengeluaran - listrik
+2024-08-26,Pengeluaran,listrik,405254,Pengeluaran - listrik
+2024-08-13,Pemasukan,penjualan,481221,Pemasukan - penjualan
+2024-04-16,Pemasukan,penjualan,68265,Pemasukan - penjualan
+2024-06-20,Pemasukan,penjualan,172969,Pemasukan - penjualan
+2024-10-04,Pengeluaran,transportasi,498991,Pengeluaran - transportasi
+2024-10-02,Pengeluaran,bahan baku,284824,Pengeluaran - bahan baku
+2024-01-20,Pengeluaran,perlengkapan,15081,Pengeluaran - perlengkapan
+2024-12-25,Pemasukan,penjualan,436611,Pemasukan - penjualan
+2024-06-29,Pengeluaran,gaji,159088,Pengeluaran - gaji
+2024-05-08,Pemasukan,penjualan,455692,Pemasukan - penjualan
+2024-04-04,Pengeluaran,listrik,230393,Pengeluaran - listrik
+2024-11-12,Pemasukan,penjualan,70102,Pemasukan - penjualan
+2024-07-03,Pemasukan,penjualan,22720,Pemasukan - penjualan
+2024-02-03,Pengeluaran,listrik,329011,Pengeluaran - listrik
+2024-04-09,Pemasukan,penjualan,392958,Pemasukan - penjualan
+2024-03-01,Pengeluaran,transportasi,436157,Pengeluaran - transportasi
+2024-01-02,Pemasukan,penjualan,305106,Pemasukan - penjualan
+2024-11-15,Pengeluaran,perlengkapan,348589,Pengeluaran - perlengkapan
+2024-01-17,Pengeluaran,transportasi,336753,Pengeluaran - transportasi
+2024-08-06,Pengeluaran,transportasi,292772,Pengeluaran - transportasi
+2024-01-19,Pengeluaran,bahan baku,451883,Pengeluaran - bahan baku
+2024-09-07,Pemasukan,penjualan,112499,Pemasukan - penjualan
+2024-06-16,Pemasukan,penjualan,265037,Pemasukan - penjualan
+2024-06-13,Pemasukan,penjualan,109797,Pemasukan - penjualan
+2024-10-26,Pengeluaran,transportasi,89972,Pengeluaran - transportasi
+2024-03-09,Pemasukan,penjualan,137128,Pemasukan - penjualan
+2024-07-30,Pemasukan,penjualan,154130,Pemasukan - penjualan
+2024-04-14,Pengeluaran,listrik,358179,Pengeluaran - listrik
+2024-05-24,Pemasukan,penjualan,416992,Pemasukan - penjualan
+2024-07-19,Pengeluaran,bahan baku,21644,Pengeluaran - bahan baku
+2024-04-07,Pengeluaran,listrik,68318,Pengeluaran - listrik
+2024-09-26,Pengeluaran,transportasi,479119,Pengeluaran - transportasi
+2024-12-27,Pemasukan,penjualan,330867,Pemasukan - penjualan
+2024-12-26,Pemasukan,penjualan,137860,Pemasukan - penjualan
+2024-02-21,Pengeluaran,perlengkapan,107833,Pengeluaran - perlengkapan
+2024-08-17,Pengeluaran,bahan baku,297160,Pengeluaran - bahan baku
+2024-06-20,Pemasukan,penjualan,363299,Pemasukan - penjualan
+2024-03-03,Pemasukan,penjualan,65080,Pemasukan - penjualan
+2024-05-09,Pengeluaran,transportasi,34508,Pengeluaran - transportasi
+2024-09-06,Pengeluaran,perlengkapan,314519,Pengeluaran - perlengkapan
+2024-10-20,Pemasukan,penjualan,477717,Pemasukan - penjualan
+2024-10-23,Pengeluaran,transportasi,50132,Pengeluaran - transportasi
+2024-09-07,Pengeluaran,listrik,274208,Pengeluaran - listrik
+2024-05-16,Pengeluaran,gaji,372126,Pengeluaran - gaji
+2024-02-20,Pemasukan,penjualan,496471,Pemasukan - penjualan
+2024-01-06,Pengeluaran,gaji,403409,Pengeluaran - gaji
+2024-04-06,Pemasukan,penjualan,490495,Pemasukan - penjualan
+2024-08-11,Pengeluaran,perlengkapan,31598,Pengeluaran - perlengkapan
+2024-12-27,Pengeluaran,perlengkapan,69017,Pengeluaran - perlengkapan
+2024-05-23,Pemasukan,penjualan,78957,Pemasukan - penjualan
+2024-06-18,Pemasukan,penjualan,197869,Pemasukan - penjualan
+2024-07-30,Pengeluaran,transportasi,319196,Pengeluaran - transportasi
+2024-11-28,Pengeluaran,transportasi,91605,Pengeluaran - transportasi
+2024-10-11,Pengeluaran,gaji,15001,Pengeluaran - gaji
+2024-11-18,Pemasukan,penjualan,197802,Pemasukan - penjualan
+2024-11-20,Pengeluaran,bahan baku,216634,Pengeluaran - bahan baku
+2024-02-23,Pengeluaran,listrik,75066,Pengeluaran - listrik
+2024-07-28,Pemasukan,penjualan,220746,Pemasukan - penjualan
+2024-01-25,Pengeluaran,listrik,101365,Pengeluaran - listrik
+2024-12-08,Pemasukan,penjualan,310851,Pemasukan - penjualan
+2024-07-29,Pemasukan,penjualan,486446,Pemasukan - penjualan
+2024-12-03,Pemasukan,penjualan,300093,Pemasukan - penjualan
+2024-02-10,Pengeluaran,perlengkapan,138344,Pengeluaran - perlengkapan
+2024-08-08,Pengeluaran,gaji,270933,Pengeluaran - gaji
+2024-10-05,Pengeluaran,perlengkapan,41416,Pengeluaran - perlengkapan
+2024-01-31,Pemasukan,penjualan,100355,Pemasukan - penjualan
+2024-04-25,Pengeluaran,perlengkapan,239411,Pengeluaran - perlengkapan
+2024-05-16,Pengeluaran,transportasi,265141,Pengeluaran - transportasi
+2024-09-08,Pengeluaran,perlengkapan,116701,Pengeluaran - perlengkapan
+2024-09-23,Pemasukan,penjualan,356267,Pemasukan - penjualan
+2024-02-24,Pemasukan,penjualan,56298,Pemasukan - penjualan
+2024-01-21,Pengeluaran,perlengkapan,412016,Pengeluaran - perlengkapan
+2024-11-14,Pemasukan,penjualan,240533,Pemasukan - penjualan
+2024-01-07,Pengeluaran,bahan baku,52203,Pengeluaran - bahan baku
+2024-02-01,Pengeluaran,listrik,240995,Pengeluaran - listrik
+2024-11-28,Pengeluaran,transportasi,293583,Pengeluaran - transportasi
+2024-02-04,Pemasukan,penjualan,225523,Pemasukan - penjualan
+2024-06-06,Pengeluaran,gaji,193031,Pengeluaran - gaji
+2024-05-18,Pemasukan,penjualan,176832,Pemasukan - penjualan
+2024-04-17,Pengeluaran,listrik,82954,Pengeluaran - listrik
+2024-06-13,Pemasukan,penjualan,180943,Pemasukan - penjualan
+2024-02-19,Pemasukan,penjualan,92779,Pemasukan - penjualan
+2024-09-23,Pengeluaran,listrik,442501,Pengeluaran - listrik
+2024-08-30,Pemasukan,penjualan,373500,Pemasukan - penjualan
+2024-01-29,Pemasukan,penjualan,451859,Pemasukan - penjualan
+2024-07-22,Pemasukan,penjualan,312324,Pemasukan - penjualan
+2024-11-11,Pengeluaran,perlengkapan,194827,Pengeluaran - perlengkapan
+2024-08-02,Pengeluaran,listrik,85895,Pengeluaran - listrik
+2024-04-22,Pengeluaran,bahan baku,182598,Pengeluaran - bahan baku
+2024-05-30,Pemasukan,penjualan,392053,Pemasukan - penjualan
+2024-07-05,Pengeluaran,listrik,441314,Pengeluaran - listrik
+2024-12-11,Pengeluaran,transportasi,267421,Pengeluaran - transportasi
+2024-01-18,Pemasukan,penjualan,184738,Pemasukan - penjualan
+2024-05-11,Pengeluaran,perlengkapan,22965,Pengeluaran - perlengkapan
+2024-01-25,Pemasukan,penjualan,136058,Pemasukan - penjualan
+2024-12-22,Pengeluaran,gaji,367445,Pengeluaran - gaji
+2024-05-17,Pemasukan,penjualan,76676,Pemasukan - penjualan
+2024-08-25,Pengeluaran,transportasi,355800,Pengeluaran - transportasi
+2024-08-18,Pemasukan,penjualan,252918,Pemasukan - penjualan
+2024-12-14,Pengeluaran,perlengkapan,100966,Pengeluaran - perlengkapan
+2024-05-07,Pengeluaran,perlengkapan,69247,Pengeluaran - perlengkapan
+2024-12-15,Pengeluaran,bahan baku,192076,Pengeluaran - bahan baku
+2024-06-17,Pemasukan,penjualan,183453,Pemasukan - penjualan
+2024-02-13,Pemasukan,penjualan,62080,Pemasukan - penjualan
+2024-12-28,Pemasukan,penjualan,474285,Pemasukan - penjualan
+2024-04-02,Pengeluaran,perlengkapan,400040,Pengeluaran - perlengkapan
+2024-10-14,Pemasukan,penjualan,356661,Pemasukan - penjualan
+2024-09-20,Pemasukan,penjualan,393675,Pemasukan - penjualan
+2024-11-04,Pengeluaran,listrik,69873,Pengeluaran - listrik
+2024-10-21,Pengeluaran,listrik,432403,Pengeluaran - listrik
+2024-07-27,Pengeluaran,gaji,480526,Pengeluaran - gaji
+2024-09-03,Pengeluaran,gaji,309317,Pengeluaran - gaji
+2024-10-17,Pengeluaran,listrik,245153,Pengeluaran - listrik
+2024-05-22,Pemasukan,penjualan,134974,Pemasukan - penjualan
+2024-05-02,Pengeluaran,perlengkapan,381965,Pengeluaran - perlengkapan
+2024-06-02,Pemasukan,penjualan,184279,Pemasukan - penjualan
+2024-11-20,Pemasukan,penjualan,235513,Pemasukan - penjualan
+2024-06-03,Pengeluaran,perlengkapan,264245,Pengeluaran - perlengkapan
+2024-08-14,Pengeluaran,perlengkapan,318888,Pengeluaran - perlengkapan
+2024-10-24,Pengeluaran,transportasi,180145,Pengeluaran - transportasi
+2024-10-08,Pemasukan,penjualan,176851,Pemasukan - penjualan
+2024-09-01,Pengeluaran,listrik,475546,Pengeluaran - listrik
+2024-07-01,Pengeluaran,listrik,185396,Pengeluaran - listrik
+2024-02-28,Pengeluaran,gaji,345576,Pengeluaran - gaji
+2024-11-30,Pemasukan,penjualan,428599,Pemasukan - penjualan
+2024-09-22,Pemasukan,penjualan,33057,Pemasukan - penjualan
+2024-02-04,Pemasukan,penjualan,349775,Pemasukan - penjualan
+2024-06-08,Pemasukan,penjualan,202211,Pemasukan - penjualan
+2024-04-18,Pengeluaran,transportasi,468667,Pengeluaran - transportasi
+2024-02-24,Pengeluaran,listrik,76229,Pengeluaran - listrik
+2024-01-15,Pengeluaran,perlengkapan,103035,Pengeluaran - perlengkapan
+2024-12-31,Pemasukan,penjualan,444073,Pemasukan - penjualan
+2024-03-06,Pemasukan,penjualan,271200,Pemasukan - penjualan
+2024-10-13,Pemasukan,penjualan,12929,Pemasukan - penjualan
+2024-06-10,Pemasukan,penjualan,154293,Pemasukan - penjualan
+2024-07-28,Pengeluaran,perlengkapan,185008,Pengeluaran - perlengkapan
+2024-03-25,Pengeluaran,transportasi,359089,Pengeluaran - transportasi
+2024-01-04,Pemasukan,penjualan,389898,Pemasukan - penjualan
+2024-10-24,Pemasukan,penjualan,203354,Pemasukan - penjualan
+2024-05-06,Pengeluaran,perlengkapan,113780,Pengeluaran - perlengkapan
+2024-05-12,Pengeluaran,gaji,356621,Pengeluaran - gaji
+2024-07-07,Pengeluaran,transportasi,359266,Pengeluaran - transportasi
+2024-01-19,Pemasukan,penjualan,29123,Pemasukan - penjualan
+2024-04-09,Pengeluaran,gaji,220056,Pengeluaran - gaji
+2024-07-29,Pemasukan,penjualan,168262,Pemasukan - penjualan
+2024-12-14,Pengeluaran,bahan baku,29642,Pengeluaran - bahan baku
+2024-12-26,Pengeluaran,transportasi,227501,Pengeluaran - transportasi
+2024-04-28,Pemasukan,penjualan,153087,Pemasukan - penjualan
+2024-07-16,Pengeluaran,gaji,116181,Pengeluaran - gaji
+2024-05-22,Pengeluaran,bahan baku,418435,Pengeluaran - bahan baku
+2024-11-03,Pengeluaran,bahan baku,398700,Pengeluaran - bahan baku
+2024-02-09,Pemasukan,penjualan,487772,Pemasukan - penjualan
+2024-03-29,Pengeluaran,listrik,410762,Pengeluaran - listrik
+2024-08-28,Pengeluaran,bahan baku,37363,Pengeluaran - bahan baku
+2024-05-05,Pemasukan,penjualan,383507,Pemasukan - penjualan
+2024-04-09,Pemasukan,penjualan,144236,Pemasukan - penjualan
+2024-12-04,Pemasukan,penjualan,233892,Pemasukan - penjualan
+2024-12-18,Pemasukan,penjualan,474319,Pemasukan - penjualan
+2024-04-17,Pengeluaran,gaji,448126,Pengeluaran - gaji
+2024-07-05,Pengeluaran,perlengkapan,305539,Pengeluaran - perlengkapan
+2024-04-06,Pemasukan,penjualan,327152,Pemasukan - penjualan
+2024-09-02,Pengeluaran,transportasi,336785,Pengeluaran - transportasi
+2024-07-17,Pengeluaran,bahan baku,486696,Pengeluaran - bahan baku
+2024-04-02,Pemasukan,penjualan,148122,Pemasukan - penjualan
+2024-05-20,Pengeluaran,gaji,177691,Pengeluaran - gaji
+2024-05-04,Pemasukan,penjualan,171987,Pemasukan - penjualan
+2024-01-07,Pemasukan,penjualan,159665,Pemasukan - penjualan
+2024-09-27,Pemasukan,penjualan,450186,Pemasukan - penjualan
+2024-12-11,Pemasukan,penjualan,331699,Pemasukan - penjualan
+2024-02-17,Pemasukan,penjualan,355609,Pemasukan - penjualan
+2024-12-02,Pemasukan,penjualan,142305,Pemasukan - penjualan
+2024-07-13,Pemasukan,penjualan,171471,Pemasukan - penjualan
+2024-06-06,Pemasukan,penjualan,455488,Pemasukan - penjualan
+2024-08-31,Pengeluaran,transportasi,128954,Pengeluaran - transportasi
+2024-09-08,Pengeluaran,listrik,205961,Pengeluaran - listrik
+2024-05-14,Pengeluaran,bahan baku,356652,Pengeluaran - bahan baku
+2024-09-13,Pemasukan,penjualan,402025,Pemasukan - penjualan
+2024-10-21,Pemasukan,penjualan,13932,Pemasukan - penjualan
+2024-06-20,Pengeluaran,listrik,479690,Pengeluaran - listrik
+2024-11-04,Pengeluaran,gaji,318593,Pengeluaran - gaji
+2024-09-30,Pengeluaran,transportasi,430917,Pengeluaran - transportasi
+2024-01-06,Pengeluaran,perlengkapan,44772,Pengeluaran - perlengkapan
+2024-01-13,Pengeluaran,perlengkapan,495938,Pengeluaran - perlengkapan
+2024-11-19,Pemasukan,penjualan,463265,Pemasukan - penjualan
+2024-07-08,Pemasukan,penjualan,152497,Pemasukan - penjualan
+2024-11-06,Pemasukan,penjualan,329689,Pemasukan - penjualan
+2024-05-12,Pengeluaran,bahan baku,392153,Pengeluaran - bahan baku
+2024-09-14,Pengeluaran,bahan baku,267089,Pengeluaran - bahan baku
+2024-08-24,Pengeluaran,listrik,461439,Pengeluaran - listrik
+2024-08-04,Pemasukan,penjualan,156806,Pemasukan - penjualan
+2024-10-25,Pengeluaran,bahan baku,469505,Pengeluaran - bahan baku
+2024-08-31,Pemasukan,penjualan,69542,Pemasukan - penjualan
+2024-04-28,Pengeluaran,bahan baku,348298,Pengeluaran - bahan baku
+2024-12-10,Pengeluaran,gaji,164846,Pengeluaran - gaji
+2024-11-27,Pemasukan,penjualan,372849,Pemasukan - penjualan
+2024-12-14,Pemasukan,penjualan,237714,Pemasukan - penjualan
+2024-09-30,Pemasukan,penjualan,301350,Pemasukan - penjualan
+2024-02-29,Pengeluaran,bahan baku,75430,Pengeluaran - bahan baku
+2024-01-05,Pengeluaran,gaji,161317,Pengeluaran - gaji
+2024-01-21,Pemasukan,penjualan,71847,Pemasukan - penjualan
+2024-05-16,Pengeluaran,transportasi,466867,Pengeluaran - transportasi
+2024-12-09,Pengeluaran,bahan baku,52942,Pengeluaran - bahan baku
+2024-02-15,Pengeluaran,transportasi,156127,Pengeluaran - transportasi
+2024-09-12,Pemasukan,penjualan,394198,Pemasukan - penjualan
+2024-06-30,Pemasukan,penjualan,45754,Pemasukan - penjualan
+2024-04-09,Pengeluaran,perlengkapan,143857,Pengeluaran - perlengkapan
+2024-10-16,Pengeluaran,listrik,153967,Pengeluaran - listrik
+2024-07-17,Pemasukan,penjualan,96683,Pemasukan - penjualan
+2024-02-21,Pengeluaran,perlengkapan,238983,Pengeluaran - perlengkapan
+2024-04-15,Pengeluaran,transportasi,305224,Pengeluaran - transportasi
+2024-04-22,Pemasukan,penjualan,471443,Pemasukan - penjualan
+2024-11-09,Pengeluaran,gaji,239905,Pengeluaran - gaji
+2024-08-07,Pengeluaran,perlengkapan,29227,Pengeluaran - perlengkapan
+2024-07-08,Pengeluaran,listrik,106531,Pengeluaran - listrik
+2024-07-14,Pengeluaran,perlengkapan,419315,Pengeluaran - perlengkapan
+2024-06-26,Pengeluaran,bahan baku,91297,Pengeluaran - bahan baku
+2024-01-26,Pemasukan,penjualan,61659,Pemasukan - penjualan
+2024-02-22,Pengeluaran,transportasi,16136,Pengeluaran - transportasi
+2024-05-31,Pemasukan,penjualan,242085,Pemasukan - penjualan
+2024-08-24,Pemasukan,penjualan,302325,Pemasukan - penjualan
+2024-02-29,Pengeluaran,gaji,442489,Pengeluaran - gaji
+2024-03-11,Pemasukan,penjualan,335924,Pemasukan - penjualan
+2024-11-01,Pengeluaran,gaji,238378,Pengeluaran - gaji
+2024-06-17,Pengeluaran,transportasi,264125,Pengeluaran - transportasi
+2024-06-19,Pengeluaran,perlengkapan,422338,Pengeluaran - perlengkapan
+2024-08-29,Pengeluaran,transportasi,325088,Pengeluaran - transportasi
+2024-12-11,Pengeluaran,listrik,228454,Pengeluaran - listrik
+2024-04-11,Pemasukan,penjualan,476251,Pemasukan - penjualan
+2024-11-06,Pengeluaran,gaji,315188,Pengeluaran - gaji
+2024-11-14,Pengeluaran,gaji,24197,Pengeluaran - gaji
+2024-12-01,Pengeluaran,transportasi,268144,Pengeluaran - transportasi
+2024-11-06,Pengeluaran,gaji,332969,Pengeluaran - gaji
+2024-11-25,Pemasukan,penjualan,193858,Pemasukan - penjualan
+2024-07-25,Pemasukan,penjualan,378122,Pemasukan - penjualan
+2024-12-03,Pemasukan,penjualan,396650,Pemasukan - penjualan
+2024-07-09,Pemasukan,penjualan,66298,Pemasukan - penjualan
+2024-08-22,Pengeluaran,gaji,51957,Pengeluaran - gaji
+2024-09-03,Pemasukan,penjualan,146197,Pemasukan - penjualan
+2024-05-16,Pengeluaran,gaji,123378,Pengeluaran - gaji
+2024-07-12,Pemasukan,penjualan,16930,Pemasukan - penjualan
+2024-10-05,Pemasukan,penjualan,435989,Pemasukan - penjualan
+2024-03-25,Pemasukan,penjualan,325156,Pemasukan - penjualan
+2024-08-22,Pemasukan,penjualan,453239,Pemasukan - penjualan
+2024-10-24,Pengeluaran,perlengkapan,470409,Pengeluaran - perlengkapan
+2024-02-19,Pemasukan,penjualan,62120,Pemasukan - penjualan
+2024-05-04,Pengeluaran,bahan baku,43412,Pengeluaran - bahan baku
+2024-04-22,Pengeluaran,perlengkapan,181719,Pengeluaran - perlengkapan
+2024-10-04,Pengeluaran,listrik,117000,Pengeluaran - listrik
+2024-11-17,Pengeluaran,bahan baku,395896,Pengeluaran - bahan baku
+2024-06-13,Pemasukan,penjualan,42050,Pemasukan - penjualan
+2024-11-01,Pemasukan,penjualan,307595,Pemasukan - penjualan
+2024-01-19,Pemasukan,penjualan,426666,Pemasukan - penjualan
+2024-03-19,Pengeluaran,transportasi,481273,Pengeluaran - transportasi
+2024-07-18,Pemasukan,penjualan,367040,Pemasukan - penjualan
+2024-01-29,Pemasukan,penjualan,154547,Pemasukan - penjualan
+2024-06-14,Pemasukan,penjualan,270646,Pemasukan - penjualan
+2024-01-23,Pemasukan,penjualan,38886,Pemasukan - penjualan
+2024-01-29,Pengeluaran,gaji,164420,Pengeluaran - gaji
+2024-08-18,Pemasukan,penjualan,281148,Pemasukan - penjualan
+2024-09-06,Pemasukan,penjualan,12536,Pemasukan - penjualan
+2024-03-14,Pemasukan,penjualan,102645,Pemasukan - penjualan
+2024-02-11,Pemasukan,penjualan,87934,Pemasukan - penjualan
+2024-03-22,Pemasukan,penjualan,296287,Pemasukan - penjualan
+2024-07-31,Pemasukan,penjualan,99516,Pemasukan - penjualan
+2024-01-03,Pengeluaran,bahan baku,195916,Pengeluaran - bahan baku
+2024-07-24,Pengeluaran,listrik,134881,Pengeluaran - listrik
+2024-09-23,Pemasukan,penjualan,273053,Pemasukan - penjualan
+2024-01-15,Pemasukan,penjualan,293966,Pemasukan - penjualan
+2024-05-07,Pemasukan,penjualan,111204,Pemasukan - penjualan
+2024-09-19,Pengeluaran,gaji,71332,Pengeluaran - gaji
+2024-12-17,Pengeluaran,gaji,93003,Pengeluaran - gaji
+2024-12-05,Pemasukan,penjualan,400571,Pemasukan - penjualan
+2024-08-01,Pengeluaran,bahan baku,177666,Pengeluaran - bahan baku
+2024-02-17,Pemasukan,penjualan,214115,Pemasukan - penjualan
+2024-05-09,Pemasukan,penjualan,468626,Pemasukan - penjualan
+2024-07-15,Pengeluaran,bahan baku,416138,Pengeluaran - bahan baku
+2024-01-22,Pemasukan,penjualan,214468,Pemasukan - penjualan
+2024-07-05,Pemasukan,penjualan,194093,Pemasukan - penjualan
+2024-10-10,Pemasukan,penjualan,413709,Pemasukan - penjualan
+2024-04-15,Pemasukan,penjualan,227035,Pemasukan - penjualan
+2024-04-06,Pengeluaran,gaji,377697,Pengeluaran - gaji
+2024-06-21,Pemasukan,penjualan,224858,Pemasukan - penjualan
+2024-11-22,Pemasukan,penjualan,401861,Pemasukan - penjualan
+2024-05-06,Pemasukan,penjualan,39897,Pemasukan - penjualan
+2024-10-18,Pengeluaran,bahan baku,470258,Pengeluaran - bahan baku
+2024-11-19,Pengeluaran,listrik,401116,Pengeluaran - listrik
+2024-03-16,Pemasukan,penjualan,162236,Pemasukan - penjualan
+2024-05-09,Pengeluaran,transportasi,345448,Pengeluaran - transportasi
+2024-08-01,Pemasukan,penjualan,408975,Pemasukan - penjualan
+2024-07-14,Pengeluaran,gaji,27551,Pengeluaran - gaji
+2024-12-19,Pengeluaran,bahan baku,472641,Pengeluaran - bahan baku
+2024-05-01,Pemasukan,penjualan,274531,Pemasukan - penjualan
+2024-12-08,Pengeluaran,bahan baku,10278,Pengeluaran - bahan baku
+2024-01-15,Pemasukan,penjualan,378647,Pemasukan - penjualan
+2024-10-24,Pengeluaran,listrik,388968,Pengeluaran - listrik
+2024-03-15,Pemasukan,penjualan,248293,Pemasukan - penjualan
+2024-12-11,Pengeluaran,gaji,375585,Pengeluaran - gaji
+2024-06-10,Pengeluaran,listrik,46613,Pengeluaran - listrik
+2024-12-05,Pengeluaran,transportasi,90948,Pengeluaran - transportasi
+2024-06-11,Pengeluaran,transportasi,78745,Pengeluaran - transportasi
+2024-12-10,Pengeluaran,gaji,112113,Pengeluaran - gaji
+2024-09-12,Pengeluaran,perlengkapan,441735,Pengeluaran - perlengkapan
+2024-05-26,Pengeluaran,bahan baku,474227,Pengeluaran - bahan baku
+2024-11-02,Pemasukan,penjualan,196803,Pemasukan - penjualan
+2024-04-11,Pengeluaran,bahan baku,174044,Pengeluaran - bahan baku
+2024-12-02,Pemasukan,penjualan,69091,Pemasukan - penjualan
+2024-07-27,Pengeluaran,perlengkapan,36004,Pengeluaran - perlengkapan
+2024-03-03,Pengeluaran,transportasi,85535,Pengeluaran - transportasi
+2024-04-01,Pemasukan,penjualan,233467,Pemasukan - penjualan
+2024-12-09,Pemasukan,penjualan,465719,Pemasukan - penjualan
+2024-02-21,Pemasukan,penjualan,238071,Pemasukan - penjualan
+2024-09-12,Pengeluaran,bahan baku,381956,Pengeluaran - bahan baku
+2024-04-01,Pengeluaran,listrik,430628,Pengeluaran - listrik
+2024-08-16,Pengeluaran,transportasi,397708,Pengeluaran - transportasi
+2024-09-17,Pemasukan,penjualan,276948,Pemasukan - penjualan
+2024-10-28,Pemasukan,penjualan,244123,Pemasukan - penjualan
+2024-11-17,Pengeluaran,transportasi,352005,Pengeluaran - transportasi
+2024-11-02,Pemasukan,penjualan,165349,Pemasukan - penjualan
+2024-06-20,Pemasukan,penjualan,269353,Pemasukan - penjualan
+2024-03-02,Pemasukan,penjualan,180924,Pemasukan - penjualan
+2024-11-03,Pengeluaran,gaji,242920,Pengeluaran - gaji
+2024-03-13,Pengeluaran,perlengkapan,60254,Pengeluaran - perlengkapan
+2024-02-02,Pengeluaran,gaji,119950,Pengeluaran - gaji
+2024-02-21,Pemasukan,penjualan,13147,Pemasukan - penjualan
+2024-11-29,Pemasukan,penjualan,280596,Pemasukan - penjualan
+2024-01-20,Pengeluaran,gaji,261273,Pengeluaran - gaji
+2024-03-02,Pemasukan,penjualan,167842,Pemasukan - penjualan
+2024-05-20,Pemasukan,penjualan,417460,Pemasukan - penjualan
+2024-06-10,Pengeluaran,bahan baku,441409,Pengeluaran - bahan baku
+2024-07-08,Pemasukan,penjualan,470524,Pemasukan - penjualan
+2024-12-27,Pengeluaran,transportasi,401578,Pengeluaran - transportasi
+2024-03-01,Pengeluaran,transportasi,320538,Pengeluaran - transportasi
+2024-05-29,Pengeluaran,transportasi,443006,Pengeluaran - transportasi
+2024-03-09,Pengeluaran,listrik,188953,Pengeluaran - listrik
+2024-07-24,Pengeluaran,gaji,172987,Pengeluaran - gaji
+2024-06-01,Pengeluaran,gaji,120262,Pengeluaran - gaji
+2024-07-07,Pemasukan,penjualan,48877,Pemasukan - penjualan
+2024-09-15,Pengeluaran,bahan baku,274722,Pengeluaran - bahan baku
+2024-05-31,Pengeluaran,gaji,162348,Pengeluaran - gaji
+2024-09-10,Pengeluaran,perlengkapan,136535,Pengeluaran - perlengkapan
+2024-10-25,Pemasukan,penjualan,96359,Pemasukan - penjualan
+2024-01-19,Pengeluaran,listrik,61943,Pengeluaran - listrik
+2024-02-12,Pemasukan,penjualan,445264,Pemasukan - penjualan
+2024-08-28,Pengeluaran,listrik,232613,Pengeluaran - listrik
+2024-06-10,Pengeluaran,bahan baku,342515,Pengeluaran - bahan baku
+2024-02-29,Pemasukan,penjualan,207602,Pemasukan - penjualan
+2024-05-27,Pengeluaran,listrik,181889,Pengeluaran - listrik
+2024-10-19,Pengeluaran,bahan baku,98164,Pengeluaran - bahan baku
+2024-09-12,Pemasukan,penjualan,48685,Pemasukan - penjualan
+2024-12-22,Pengeluaran,gaji,403277,Pengeluaran - gaji
+2024-06-19,Pemasukan,penjualan,113506,Pemasukan - penjualan
+2024-09-22,Pengeluaran,perlengkapan,40156,Pengeluaran - perlengkapan
+2024-12-16,Pemasukan,penjualan,490812,Pemasukan - penjualan
+2024-06-04,Pengeluaran,transportasi,66491,Pengeluaran - transportasi
+2024-10-27,Pemasukan,penjualan,399646,Pemasukan - penjualan
+2024-01-12,Pemasukan,penjualan,85499,Pemasukan - penjualan
+2024-03-08,Pengeluaran,perlengkapan,104671,Pengeluaran - perlengkapan
+2024-05-28,Pengeluaran,listrik,179804,Pengeluaran - listrik
+2024-10-25,Pengeluaran,bahan baku,425137,Pengeluaran - bahan baku
+2024-07-06,Pemasukan,penjualan,358795,Pemasukan - penjualan
+2024-06-21,Pemasukan,penjualan,160543,Pemasukan - penjualan
+2024-05-10,Pengeluaran,bahan baku,51988,Pengeluaran - bahan baku
+2024-08-28,Pengeluaran,listrik,194296,Pengeluaran - listrik
+2024-09-26,Pengeluaran,gaji,94568,Pengeluaran - gaji
+2024-07-12,Pengeluaran,gaji,157371,Pengeluaran - gaji
+2024-07-20,Pengeluaran,listrik,158173,Pengeluaran - listrik
+2024-04-08,Pengeluaran,listrik,415045,Pengeluaran - listrik
+2024-11-15,Pengeluaran,gaji,358494,Pengeluaran - gaji
+2024-04-06,Pengeluaran,transportasi,362733,Pengeluaran - transportasi
+2024-05-30,Pemasukan,penjualan,376221,Pemasukan - penjualan
+2024-08-03,Pemasukan,penjualan,58986,Pemasukan - penjualan
+2024-11-18,Pengeluaran,gaji,449621,Pengeluaran - gaji
+2024-03-23,Pemasukan,penjualan,24552,Pemasukan - penjualan
+2024-01-09,Pemasukan,penjualan,375035,Pemasukan - penjualan
+2024-03-06,Pengeluaran,transportasi,102097,Pengeluaran - transportasi
+2024-05-01,Pemasukan,penjualan,199678,Pemasukan - penjualan
+2024-04-25,Pemasukan,penjualan,23033,Pemasukan - penjualan
+2024-07-04,Pengeluaran,listrik,200100,Pengeluaran - listrik
+2024-04-29,Pemasukan,penjualan,481174,Pemasukan - penjualan
+2024-05-21,Pengeluaran,gaji,302747,Pengeluaran - gaji
+2024-12-05,Pemasukan,penjualan,254563,Pemasukan - penjualan
+2024-05-23,Pengeluaran,perlengkapan,494882,Pengeluaran - perlengkapan
+2024-09-17,Pemasukan,penjualan,350898,Pemasukan - penjualan
+2024-06-08,Pengeluaran,transportasi,211716,Pengeluaran - transportasi
+2024-02-05,Pengeluaran,bahan baku,113077,Pengeluaran - bahan baku
+2024-02-22,Pengeluaran,bahan baku,73066,Pengeluaran - bahan baku
+2024-04-05,Pengeluaran,perlengkapan,488065,Pengeluaran - perlengkapan
+2024-04-19,Pemasukan,penjualan,260706,Pemasukan - penjualan
+2024-04-26,Pemasukan,penjualan,434960,Pemasukan - penjualan
+2024-09-07,Pemasukan,penjualan,450566,Pemasukan - penjualan
+2024-03-15,Pemasukan,penjualan,46846,Pemasukan - penjualan
+2024-06-23,Pemasukan,penjualan,448892,Pemasukan - penjualan
+2024-05-14,Pemasukan,penjualan,350362,Pemasukan - penjualan
+2024-11-05,Pemasukan,penjualan,94323,Pemasukan - penjualan
+2024-08-17,Pemasukan,penjualan,150633,Pemasukan - penjualan
+2024-11-04,Pemasukan,penjualan,267290,Pemasukan - penjualan
+2024-12-12,Pemasukan,penjualan,162974,Pemasukan - penjualan
+2024-09-30,Pemasukan,penjualan,102570,Pemasukan - penjualan
+2024-04-23,Pemasukan,penjualan,459979,Pemasukan - penjualan
+2024-11-05,Pengeluaran,listrik,20709,Pengeluaran - listrik
+2024-07-22,Pengeluaran,bahan baku,202776,Pengeluaran - bahan baku
+2024-04-10,Pengeluaran,bahan baku,226702,Pengeluaran - bahan baku
+2024-08-16,Pemasukan,penjualan,283250,Pemasukan - penjualan
+2024-04-20,Pemasukan,penjualan,365560,Pemasukan - penjualan
+2024-11-12,Pemasukan,penjualan,213844,Pemasukan - penjualan
+2024-01-22,Pengeluaran,listrik,449605,Pengeluaran - listrik
+2024-11-07,Pemasukan,penjualan,490787,Pemasukan - penjualan
+2024-10-05,Pemasukan,penjualan,374099,Pemasukan - penjualan
+2024-02-28,Pemasukan,penjualan,11187,Pemasukan - penjualan
+2024-11-07,Pemasukan,penjualan,290746,Pemasukan - penjualan
+2024-02-12,Pengeluaran,perlengkapan,147036,Pengeluaran - perlengkapan
+2024-04-07,Pengeluaran,perlengkapan,110635,Pengeluaran - perlengkapan
+2024-05-26,Pengeluaran,gaji,261539,Pengeluaran - gaji
+2024-02-03,Pemasukan,penjualan,487392,Pemasukan - penjualan
+2024-08-18,Pengeluaran,listrik,52313,Pengeluaran - listrik
+2024-05-21,Pemasukan,penjualan,185731,Pemasukan - penjualan
+2024-06-02,Pengeluaran,perlengkapan,170470,Pengeluaran - perlengkapan
+2024-11-13,Pemasukan,penjualan,334711,Pemasukan - penjualan
+2024-10-23,Pengeluaran,perlengkapan,463069,Pengeluaran - perlengkapan
+2024-11-07,Pengeluaran,bahan baku,29768,Pengeluaran - bahan baku
+2024-02-21,Pengeluaran,perlengkapan,177556,Pengeluaran - perlengkapan
+2024-09-21,Pemasukan,penjualan,327949,Pemasukan - penjualan
+2024-08-19,Pengeluaran,bahan baku,466011,Pengeluaran - bahan baku
+2024-02-16,Pemasukan,penjualan,342543,Pemasukan - penjualan
+2024-11-09,Pemasukan,penjualan,409293,Pemasukan - penjualan
+2024-02-09,Pemasukan,penjualan,98107,Pemasukan - penjualan
+2024-02-14,Pengeluaran,perlengkapan,167550,Pengeluaran - perlengkapan
+2024-05-02,Pengeluaran,gaji,47365,Pengeluaran - gaji
+2024-03-07,Pemasukan,penjualan,216452,Pemasukan - penjualan
+2024-10-03,Pengeluaran,transportasi,356438,Pengeluaran - transportasi
+2024-07-27,Pemasukan,penjualan,471551,Pemasukan - penjualan
+2024-01-31,Pengeluaran,perlengkapan,71738,Pengeluaran - perlengkapan
+2024-03-07,Pemasukan,penjualan,439998,Pemasukan - penjualan
+2024-07-11,Pemasukan,penjualan,33951,Pemasukan - penjualan
+2024-10-24,Pengeluaran,listrik,377759,Pengeluaran - listrik
+2024-11-03,Pengeluaran,bahan baku,180487,Pengeluaran - bahan baku
+2024-08-19,Pemasukan,penjualan,220772,Pemasukan - penjualan
+2024-11-13,Pemasukan,penjualan,351409,Pemasukan - penjualan
+2024-11-27,Pemasukan,penjualan,84619,Pemasukan - penjualan
+2024-09-25,Pemasukan,penjualan,37983,Pemasukan - penjualan
+2024-04-01,Pengeluaran,listrik,397151,Pengeluaran - listrik
+2024-02-09,Pengeluaran,gaji,307301,Pengeluaran - gaji
+2024-02-07,Pemasukan,penjualan,390034,Pemasukan - penjualan
+2024-11-17,Pengeluaran,transportasi,74702,Pengeluaran - transportasi
+2024-08-01,Pengeluaran,bahan baku,383029,Pengeluaran - bahan baku
+2024-02-08,Pemasukan,penjualan,42517,Pemasukan - penjualan
+2024-06-12,Pengeluaran,transportasi,299324,Pengeluaran - transportasi
+2024-11-16,Pengeluaran,bahan baku,187280,Pengeluaran - bahan baku
+2024-11-21,Pengeluaran,transportasi,113145,Pengeluaran - transportasi
+2024-01-31,Pemasukan,penjualan,72416,Pemasukan - penjualan
+2024-01-14,Pemasukan,penjualan,450188,Pemasukan - penjualan
+2024-04-06,Pengeluaran,bahan baku,87586,Pengeluaran - bahan baku
+2024-02-21,Pengeluaran,bahan baku,283366,Pengeluaran - bahan baku
+2024-12-14,Pemasukan,penjualan,63225,Pemasukan - penjualan
+2024-01-28,Pengeluaran,bahan baku,93066,Pengeluaran - bahan baku
+2024-04-28,Pengeluaran,gaji,226491,Pengeluaran - gaji
+2024-01-03,Pengeluaran,transportasi,155366,Pengeluaran - transportasi
+2024-01-27,Pengeluaran,gaji,230333,Pengeluaran - gaji
+2024-01-04,Pemasukan,penjualan,246742,Pemasukan - penjualan
+2024-03-14,Pemasukan,penjualan,81442,Pemasukan - penjualan
+2024-01-31,Pemasukan,penjualan,296940,Pemasukan - penjualan
+2024-08-12,Pengeluaran,listrik,217929,Pengeluaran - listrik
+2024-09-18,Pemasukan,penjualan,463822,Pemasukan - penjualan
+2024-09-30,Pengeluaran,listrik,227546,Pengeluaran - listrik
+2024-08-19,Pemasukan,penjualan,498643,Pemasukan - penjualan
+2024-11-25,Pengeluaran,gaji,262423,Pengeluaran - gaji
+2024-05-02,Pengeluaran,bahan baku,483717,Pengeluaran - bahan baku
+2024-10-07,Pemasukan,penjualan,171704,Pemasukan - penjualan
+2024-01-12,Pengeluaran,bahan baku,479170,Pengeluaran - bahan baku
+2024-10-08,Pengeluaran,listrik,163054,Pengeluaran - listrik
+2024-05-14,Pemasukan,penjualan,216926,Pemasukan - penjualan
+2024-09-28,Pengeluaran,transportasi,285701,Pengeluaran - transportasi
+2024-08-03,Pemasukan,penjualan,173754,Pemasukan - penjualan
+2024-07-14,Pengeluaran,bahan baku,107721,Pengeluaran - bahan baku
+2024-10-14,Pemasukan,penjualan,147507,Pemasukan - penjualan
+2024-02-15,Pengeluaran,gaji,224548,Pengeluaran - gaji
+2024-03-13,Pengeluaran,bahan baku,226557,Pengeluaran - bahan baku
+2024-11-26,Pengeluaran,transportasi,475751,Pengeluaran - transportasi
+2024-07-19,Pemasukan,penjualan,313354,Pemasukan - penjualan
+2024-08-13,Pengeluaran,listrik,217905,Pengeluaran - listrik
+2024-12-28,Pemasukan,penjualan,56867,Pemasukan - penjualan
+2024-04-17,Pengeluaran,listrik,124203,Pengeluaran - listrik
+2024-05-28,Pemasukan,penjualan,125717,Pemasukan - penjualan
+2024-09-03,Pengeluaran,transportasi,384197,Pengeluaran - transportasi
+2024-07-18,Pengeluaran,bahan baku,256038,Pengeluaran - bahan baku
+2024-10-01,Pengeluaran,transportasi,333881,Pengeluaran - transportasi
+2024-01-30,Pemasukan,penjualan,95173,Pemasukan - penjualan
+2024-11-06,Pengeluaran,bahan baku,15331,Pengeluaran - bahan baku
+2024-09-08,Pengeluaran,transportasi,153391,Pengeluaran - transportasi
+2024-08-19,Pengeluaran,listrik,379656,Pengeluaran - listrik
+2024-05-10,Pengeluaran,transportasi,86434,Pengeluaran - transportasi
+2024-10-11,Pemasukan,penjualan,28828,Pemasukan - penjualan
+2024-01-13,Pemasukan,penjualan,400706,Pemasukan - penjualan
+2024-05-31,Pengeluaran,listrik,159830,Pengeluaran - listrik
+2024-01-25,Pengeluaran,bahan baku,39148,Pengeluaran - bahan baku
+2024-10-23,Pemasukan,penjualan,124019,Pemasukan - penjualan
+2024-04-30,Pemasukan,penjualan,268397,Pemasukan - penjualan
+2024-06-15,Pengeluaran,bahan baku,393732,Pengeluaran - bahan baku
+2024-01-24,Pemasukan,penjualan,20767,Pemasukan - penjualan
+2024-08-26,Pemasukan,penjualan,85881,Pemasukan - penjualan
+2024-12-31,Pemasukan,penjualan,91893,Pemasukan - penjualan
+2024-02-18,Pemasukan,penjualan,456972,Pemasukan - penjualan
+2024-03-21,Pengeluaran,listrik,102132,Pengeluaran - listrik
+2024-03-20,Pengeluaran,gaji,220793,Pengeluaran - gaji
+2024-03-04,Pemasukan,penjualan,84320,Pemasukan - penjualan
+2024-04-22,Pengeluaran,bahan baku,499481,Pengeluaran - bahan baku
+2024-02-13,Pengeluaran,bahan baku,176083,Pengeluaran - bahan baku
+2024-05-17,Pengeluaran,transportasi,198165,Pengeluaran - transportasi
+2024-01-06,Pemasukan,penjualan,24581,Pemasukan - penjualan
+2024-12-02,Pengeluaran,listrik,52809,Pengeluaran - listrik
+2024-03-08,Pemasukan,penjualan,439725,Pemasukan - penjualan
+2024-12-07,Pengeluaran,perlengkapan,465558,Pengeluaran - perlengkapan
+2024-11-23,Pemasukan,penjualan,284916,Pemasukan - penjualan
+2024-07-01,Pemasukan,penjualan,201595,Pemasukan - penjualan
+2024-08-08,Pengeluaran,gaji,91613,Pengeluaran - gaji
+2024-12-11,Pemasukan,penjualan,186513,Pemasukan - penjualan
+2024-02-04,Pengeluaran,transportasi,334536,Pengeluaran - transportasi
+2024-12-02,Pengeluaran,perlengkapan,166443,Pengeluaran - perlengkapan
+2024-09-02,Pemasukan,penjualan,447928,Pemasukan - penjualan
+2024-07-22,Pengeluaran,transportasi,239357,Pengeluaran - transportasi
+2024-03-22,Pemasukan,penjualan,321100,Pemasukan - penjualan
+2024-07-13,Pemasukan,penjualan,328698,Pemasukan - penjualan
+2024-05-05,Pengeluaran,perlengkapan,479804,Pengeluaran - perlengkapan
+2024-12-06,Pengeluaran,transportasi,389451,Pengeluaran - transportasi
+2024-01-12,Pemasukan,penjualan,35594,Pemasukan - penjualan
+2024-07-30,Pemasukan,penjualan,469751,Pemasukan - penjualan
+2024-11-19,Pengeluaran,listrik,151791,Pengeluaran - listrik
+2024-11-01,Pengeluaran,perlengkapan,241757,Pengeluaran - perlengkapan
+2024-09-03,Pemasukan,penjualan,237657,Pemasukan - penjualan
+2024-05-26,Pemasukan,penjualan,362933,Pemasukan - penjualan
+2024-06-08,Pengeluaran,listrik,298341,Pengeluaran - listrik
+2024-06-25,Pengeluaran,perlengkapan,256998,Pengeluaran - perlengkapan
+2024-08-02,Pemasukan,penjualan,39349,Pemasukan - penjualan
+2024-03-03,Pengeluaran,bahan baku,465209,Pengeluaran - bahan baku
+2024-12-18,Pemasukan,penjualan,496630,Pemasukan - penjualan
+2024-03-28,Pengeluaran,transportasi,321623,Pengeluaran - transportasi
+2024-02-21,Pemasukan,penjualan,205551,Pemasukan - penjualan
+2024-10-17,Pemasukan,penjualan,382249,Pemasukan - penjualan
+2024-12-13,Pemasukan,penjualan,464647,Pemasukan - penjualan
+2024-09-19,Pemasukan,penjualan,282923,Pemasukan - penjualan
+2024-12-12,Pemasukan,penjualan,74950,Pemasukan - penjualan
+2024-11-12,Pemasukan,penjualan,455707,Pemasukan - penjualan
+2024-07-23,Pengeluaran,bahan baku,54047,Pengeluaran - bahan baku
+2024-05-11,Pemasukan,penjualan,459375,Pemasukan - penjualan
+2024-05-07,Pengeluaran,listrik,471187,Pengeluaran - listrik
+2024-08-06,Pengeluaran,gaji,415406,Pengeluaran - gaji
+2024-02-24,Pemasukan,penjualan,182810,Pemasukan - penjualan
+2024-05-16,Pemasukan,penjualan,237618,Pemasukan - penjualan
+2024-10-19,Pengeluaran,bahan baku,413422,Pengeluaran - bahan baku
+2024-08-11,Pemasukan,penjualan,397881,Pemasukan - penjualan
+2024-04-24,Pemasukan,penjualan,156751,Pemasukan - penjualan
+2024-12-08,Pengeluaran,perlengkapan,437435,Pengeluaran - perlengkapan
+2024-08-11,Pengeluaran,gaji,94456,Pengeluaran - gaji
+2024-09-13,Pengeluaran,perlengkapan,67342,Pengeluaran - perlengkapan
+2024-06-12,Pemasukan,penjualan,185106,Pemasukan - penjualan
+2024-05-26,Pengeluaran,perlengkapan,384147,Pengeluaran - perlengkapan
+2024-12-22,Pengeluaran,transportasi,441865,Pengeluaran - transportasi
+2024-08-23,Pemasukan,penjualan,338330,Pemasukan - penjualan
+2024-02-11,Pengeluaran,listrik,469859,Pengeluaran - listrik
+2024-07-10,Pemasukan,penjualan,483672,Pemasukan - penjualan
+2024-04-01,Pengeluaran,transportasi,299097,Pengeluaran - transportasi
+2024-09-20,Pemasukan,penjualan,110672,Pemasukan - penjualan
+2024-10-02,Pengeluaran,bahan baku,394805,Pengeluaran - bahan baku
+2024-07-22,Pengeluaran,bahan baku,230156,Pengeluaran - bahan baku
+2024-05-12,Pemasukan,penjualan,146469,Pemasukan - penjualan
+2024-08-21,Pemasukan,penjualan,489579,Pemasukan - penjualan
+2024-03-02,Pemasukan,penjualan,278073,Pemasukan - penjualan
+2024-09-22,Pengeluaran,bahan baku,159433,Pengeluaran - bahan baku
+2024-07-23,Pengeluaran,bahan baku,177829,Pengeluaran - bahan baku
+2024-09-29,Pemasukan,penjualan,284836,Pemasukan - penjualan
+2024-06-13,Pemasukan,penjualan,258167,Pemasukan - penjualan
+2024-02-04,Pengeluaran,bahan baku,498182,Pengeluaran - bahan baku
+2024-06-14,Pemasukan,penjualan,255522,Pemasukan - penjualan
+2024-11-23,Pengeluaran,perlengkapan,48623,Pengeluaran - perlengkapan
+2024-06-28,Pengeluaran,perlengkapan,388756,Pengeluaran - perlengkapan
+2024-12-21,Pemasukan,penjualan,119470,Pemasukan - penjualan
+2024-11-09,Pengeluaran,gaji,353604,Pengeluaran - gaji
+2024-01-04,Pengeluaran,gaji,11455,Pengeluaran - gaji
+2024-09-14,Pengeluaran,transportasi,401610,Pengeluaran - transportasi
+2024-02-21,Pengeluaran,listrik,452439,Pengeluaran - listrik
+2024-01-13,Pengeluaran,perlengkapan,277416,Pengeluaran - perlengkapan
+2024-08-16,Pengeluaran,transportasi,156851,Pengeluaran - transportasi
+2024-06-11,Pengeluaran,perlengkapan,262282,Pengeluaran - perlengkapan
+2024-04-17,Pemasukan,penjualan,428750,Pemasukan - penjualan
+2024-12-17,Pemasukan,penjualan,488293,Pemasukan - penjualan
+2024-11-06,Pengeluaran,gaji,163341,Pengeluaran - gaji
+2024-03-17,Pengeluaran,perlengkapan,240219,Pengeluaran - perlengkapan
+2024-10-30,Pemasukan,penjualan,454130,Pemasukan - penjualan
+2024-12-30,Pemasukan,penjualan,358592,Pemasukan - penjualan
+2024-02-10,Pemasukan,penjualan,135755,Pemasukan - penjualan
+2024-02-10,Pengeluaran,gaji,496908,Pengeluaran - gaji
+2024-05-10,Pemasukan,penjualan,281791,Pemasukan - penjualan
+2024-11-14,Pemasukan,penjualan,372803,Pemasukan - penjualan
+2024-02-08,Pengeluaran,transportasi,426469,Pengeluaran - transportasi
+2024-06-19,Pengeluaran,transportasi,159479,Pengeluaran - transportasi
+2024-08-24,Pemasukan,penjualan,148529,Pemasukan - penjualan
+2024-09-23,Pemasukan,penjualan,102790,Pemasukan - penjualan
+2024-06-24,Pengeluaran,listrik,387456,Pengeluaran - listrik
+2024-08-03,Pemasukan,penjualan,14815,Pemasukan - penjualan
+2024-09-18,Pengeluaran,bahan baku,353330,Pengeluaran - bahan baku
+2024-10-20,Pemasukan,penjualan,319260,Pemasukan - penjualan
+2024-06-05,Pemasukan,penjualan,456486,Pemasukan - penjualan
+2024-08-12,Pemasukan,penjualan,498580,Pemasukan - penjualan
+2024-08-03,Pengeluaran,gaji,470254,Pengeluaran - gaji
+2024-07-21,Pengeluaran,transportasi,30558,Pengeluaran - transportasi
+2024-05-06,Pengeluaran,listrik,175248,Pengeluaran - listrik
+2024-10-13,Pengeluaran,bahan baku,152844,Pengeluaran - bahan baku
+2024-10-15,Pengeluaran,bahan baku,376817,Pengeluaran - bahan baku
+2024-07-17,Pemasukan,penjualan,444766,Pemasukan - penjualan
+2024-04-17,Pengeluaran,gaji,106961,Pengeluaran - gaji
+2024-07-18,Pengeluaran,gaji,82273,Pengeluaran - gaji
+2024-08-25,Pengeluaran,listrik,247940,Pengeluaran - listrik
+2024-06-13,Pengeluaran,transportasi,354626,Pengeluaran - transportasi
+2024-07-30,Pemasukan,penjualan,41271,Pemasukan - penjualan
+2024-09-19,Pemasukan,penjualan,375478,Pemasukan - penjualan
+2024-11-26,Pengeluaran,gaji,78732,Pengeluaran - gaji
+2024-11-28,Pengeluaran,bahan baku,45892,Pengeluaran - bahan baku
+2024-07-05,Pemasukan,penjualan,196473,Pemasukan - penjualan
+2024-10-14,Pemasukan,penjualan,240929,Pemasukan - penjualan
+2024-05-04,Pengeluaran,bahan baku,96387,Pengeluaran - bahan baku
+2024-09-22,Pemasukan,penjualan,394413,Pemasukan - penjualan
+2024-03-27,Pengeluaran,bahan baku,463066,Pengeluaran - bahan baku
+2024-04-12,Pemasukan,penjualan,220716,Pemasukan - penjualan
+2024-05-02,Pemasukan,penjualan,151219,Pemasukan - penjualan
+2024-02-16,Pengeluaran,bahan baku,156396,Pengeluaran - bahan baku
+2024-07-06,Pemasukan,penjualan,281647,Pemasukan - penjualan
+2024-07-15,Pengeluaran,gaji,113700,Pengeluaran - gaji
+2024-09-26,Pemasukan,penjualan,117489,Pemasukan - penjualan
+2024-05-06,Pengeluaran,perlengkapan,489920,Pengeluaran - perlengkapan
+2024-05-03,Pengeluaran,bahan baku,114591,Pengeluaran - bahan baku
+2024-07-05,Pemasukan,penjualan,125291,Pemasukan - penjualan
+2024-09-09,Pemasukan,penjualan,203017,Pemasukan - penjualan
+2024-12-07,Pemasukan,penjualan,103040,Pemasukan - penjualan
+2024-01-22,Pemasukan,penjualan,333322,Pemasukan - penjualan
+2024-01-16,Pemasukan,penjualan,165151,Pemasukan - penjualan
+2024-08-28,Pemasukan,penjualan,343225,Pemasukan - penjualan
+2024-12-20,Pemasukan,penjualan,265017,Pemasukan - penjualan
+2024-05-09,Pemasukan,penjualan,208797,Pemasukan - penjualan
+2024-10-19,Pemasukan,penjualan,295602,Pemasukan - penjualan
+2024-03-30,Pemasukan,penjualan,75681,Pemasukan - penjualan
+2024-04-02,Pemasukan,penjualan,423373,Pemasukan - penjualan
+2024-01-03,Pengeluaran,listrik,241746,Pengeluaran - listrik
+2024-03-20,Pengeluaran,perlengkapan,125323,Pengeluaran - perlengkapan
+2024-11-26,Pemasukan,penjualan,146762,Pemasukan - penjualan
+2024-01-28,Pengeluaran,bahan baku,132313,Pengeluaran - bahan baku
+2024-02-05,Pemasukan,penjualan,398180,Pemasukan - penjualan
+2024-02-20,Pemasukan,penjualan,356559,Pemasukan - penjualan
+2024-02-09,Pengeluaran,listrik,75802,Pengeluaran - listrik
+2024-02-10,Pemasukan,penjualan,336915,Pemasukan - penjualan
+2024-05-29,Pengeluaran,gaji,248292,Pengeluaran - gaji
+2024-02-28,Pengeluaran,gaji,182043,Pengeluaran - gaji
+2024-04-30,Pengeluaran,bahan baku,338755,Pengeluaran - bahan baku
+2024-09-20,Pengeluaran,perlengkapan,451386,Pengeluaran - perlengkapan
+2024-02-28,Pengeluaran,bahan baku,304631,Pengeluaran - bahan baku
+2024-08-02,Pengeluaran,transportasi,118409,Pengeluaran - transportasi
+2024-10-17,Pengeluaran,listrik,264413,Pengeluaran - listrik
+2024-03-08,Pengeluaran,gaji,455148,Pengeluaran - gaji
+2024-05-02,Pemasukan,penjualan,21469,Pemasukan - penjualan
+2024-04-11,Pemasukan,penjualan,364144,Pemasukan - penjualan
+2024-01-15,Pengeluaran,gaji,260776,Pengeluaran - gaji
+2024-08-05,Pemasukan,penjualan,264456,Pemasukan - penjualan
+2024-02-10,Pemasukan,penjualan,373009,Pemasukan - penjualan
+2024-06-14,Pemasukan,penjualan,210493,Pemasukan - penjualan
+2024-10-04,Pemasukan,penjualan,200625,Pemasukan - penjualan
+2024-12-08,Pengeluaran,bahan baku,444975,Pengeluaran - bahan baku
+2024-11-08,Pemasukan,penjualan,471178,Pemasukan - penjualan
+2024-10-13,Pemasukan,penjualan,139500,Pemasukan - penjualan
+2024-08-26,Pemasukan,penjualan,185017,Pemasukan - penjualan
+2024-10-03,Pemasukan,penjualan,217549,Pemasukan - penjualan
+2024-02-13,Pengeluaran,gaji,297064,Pengeluaran - gaji
+2024-04-06,Pengeluaran,gaji,302073,Pengeluaran - gaji
+2024-01-24,Pemasukan,penjualan,319260,Pemasukan - penjualan
+2024-09-06,Pemasukan,penjualan,115848,Pemasukan - penjualan
+2024-01-03,Pemasukan,penjualan,97995,Pemasukan - penjualan
+2024-01-07,Pengeluaran,perlengkapan,133347,Pengeluaran - perlengkapan
+2024-09-24,Pemasukan,penjualan,390721,Pemasukan - penjualan
+2024-08-14,Pengeluaran,listrik,182458,Pengeluaran - listrik
+2024-10-09,Pemasukan,penjualan,398040,Pemasukan - penjualan
+2024-10-29,Pengeluaran,bahan baku,213850,Pengeluaran - bahan baku
+2024-02-19,Pengeluaran,perlengkapan,406055,Pengeluaran - perlengkapan
+2024-09-14,Pengeluaran,bahan baku,338464,Pengeluaran - bahan baku
+2024-08-11,Pemasukan,penjualan,403181,Pemasukan - penjualan
+2024-04-24,Pengeluaran,bahan baku,359833,Pengeluaran - bahan baku
+2024-01-18,Pengeluaran,bahan baku,340101,Pengeluaran - bahan baku
+2024-03-25,Pengeluaran,perlengkapan,299557,Pengeluaran - perlengkapan
+2024-07-08,Pengeluaran,transportasi,148899,Pengeluaran - transportasi
+2024-10-20,Pemasukan,penjualan,85616,Pemasukan - penjualan
+2024-09-21,Pemasukan,penjualan,21553,Pemasukan - penjualan
+2024-05-12,Pengeluaran,gaji,253808,Pengeluaran - gaji
+2024-11-05,Pemasukan,penjualan,387005,Pemasukan - penjualan
+2024-10-05,Pemasukan,penjualan,414904,Pemasukan - penjualan
+2024-02-07,Pengeluaran,listrik,485299,Pengeluaran - listrik
+2024-10-22,Pengeluaran,transportasi,152572,Pengeluaran - transportasi
+2024-10-29,Pengeluaran,perlengkapan,436250,Pengeluaran - perlengkapan
+2024-04-22,Pengeluaran,bahan baku,275389,Pengeluaran - bahan baku
+2024-01-11,Pemasukan,penjualan,54466,Pemasukan - penjualan
+2024-09-23,Pengeluaran,transportasi,230313,Pengeluaran - transportasi
+2024-04-04,Pengeluaran,transportasi,465813,Pengeluaran - transportasi
+2024-05-25,Pengeluaran,bahan baku,387208,Pengeluaran - bahan baku
+2024-05-15,Pemasukan,penjualan,208657,Pemasukan - penjualan
+2024-04-26,Pengeluaran,gaji,213067,Pengeluaran - gaji
+2024-01-20,Pemasukan,penjualan,326066,Pemasukan - penjualan
+2024-08-05,Pemasukan,penjualan,43462,Pemasukan - penjualan
+2024-05-20,Pengeluaran,gaji,424089,Pengeluaran - gaji
+2024-10-27,Pemasukan,penjualan,393587,Pemasukan - penjualan
+2024-05-05,Pengeluaran,bahan baku,74172,Pengeluaran - bahan baku
+2024-05-12,Pemasukan,penjualan,287377,Pemasukan - penjualan
+2024-06-21,Pengeluaran,bahan baku,307541,Pengeluaran - bahan baku
+2024-03-17,Pemasukan,penjualan,451022,Pemasukan - penjualan
+2024-10-27,Pemasukan,penjualan,255285,Pemasukan - penjualan
+2024-09-13,Pemasukan,penjualan,31668,Pemasukan - penjualan
+2024-01-26,Pengeluaran,transportasi,388683,Pengeluaran - transportasi
+2024-06-24,Pengeluaran,transportasi,490237,Pengeluaran - transportasi
+2024-08-09,Pemasukan,penjualan,377346,Pemasukan - penjualan
+2024-04-27,Pengeluaran,bahan baku,137413,Pengeluaran - bahan baku
+2024-09-27,Pemasukan,penjualan,495795,Pemasukan - penjualan
+2024-01-08,Pengeluaran,bahan baku,188229,Pengeluaran - bahan baku
+2024-09-20,Pengeluaran,gaji,176371,Pengeluaran - gaji
+2024-05-06,Pengeluaran,perlengkapan,149080,Pengeluaran - perlengkapan
+2024-02-18,Pengeluaran,listrik,497037,Pengeluaran - listrik
+2024-03-12,Pengeluaran,listrik,225400,Pengeluaran - listrik
+2024-08-29,Pengeluaran,gaji,273895,Pengeluaran - gaji
+2024-02-16,Pengeluaran,listrik,329755,Pengeluaran - listrik
+2024-11-04,Pemasukan,penjualan,87054,Pemasukan - penjualan
+2024-05-15,Pemasukan,penjualan,143468,Pemasukan - penjualan
+2024-12-04,Pengeluaran,listrik,117550,Pengeluaran - listrik
+2024-12-12,Pengeluaran,gaji,234160,Pengeluaran - gaji
+2024-02-09,Pemasukan,penjualan,300179,Pemasukan - penjualan
+2024-07-03,Pengeluaran,perlengkapan,366906,Pengeluaran - perlengkapan
+2024-10-05,Pemasukan,penjualan,320553,Pemasukan - penjualan
+2024-01-21,Pemasukan,penjualan,146245,Pemasukan - penjualan
+2024-12-12,Pengeluaran,bahan baku,495331,Pengeluaran - bahan baku
+2024-04-30,Pengeluaran,gaji,464872,Pengeluaran - gaji
+2024-01-09,Pengeluaran,listrik,443864,Pengeluaran - listrik
+2024-11-30,Pemasukan,penjualan,281223,Pemasukan - penjualan
+2024-02-21,Pengeluaran,perlengkapan,88763,Pengeluaran - perlengkapan
+2024-11-10,Pemasukan,penjualan,96415,Pemasukan - penjualan
+2024-12-25,Pemasukan,penjualan,100679,Pemasukan - penjualan
+2024-04-18,Pemasukan,penjualan,180431,Pemasukan - penjualan
+2024-03-20,Pengeluaran,bahan baku,451151,Pengeluaran - bahan baku
+2024-09-28,Pengeluaran,perlengkapan,484186,Pengeluaran - perlengkapan
+2024-11-11,Pengeluaran,listrik,243846,Pengeluaran - listrik
+2024-02-15,Pemasukan,penjualan,313805,Pemasukan - penjualan
+2024-09-04,Pemasukan,penjualan,294471,Pemasukan - penjualan
+2024-07-21,Pemasukan,penjualan,246602,Pemasukan - penjualan
+2024-02-26,Pemasukan,penjualan,127218,Pemasukan - penjualan
+2024-05-04,Pemasukan,penjualan,132301,Pemasukan - penjualan
+2024-08-08,Pengeluaran,bahan baku,295286,Pengeluaran - bahan baku
+2024-01-22,Pemasukan,penjualan,367251,Pemasukan - penjualan
+2024-11-16,Pengeluaran,gaji,373790,Pengeluaran - gaji
+2024-04-28,Pengeluaran,bahan baku,146254,Pengeluaran - bahan baku
+2024-11-23,Pemasukan,penjualan,244033,Pemasukan - penjualan
+2024-12-02,Pengeluaran,gaji,61143,Pengeluaran - gaji
+2024-08-09,Pengeluaran,bahan baku,155108,Pengeluaran - bahan baku
+2024-08-01,Pengeluaran,gaji,71230,Pengeluaran - gaji
+2024-08-09,Pengeluaran,listrik,270376,Pengeluaran - listrik
+2024-02-08,Pemasukan,penjualan,457894,Pemasukan - penjualan
+2024-01-27,Pengeluaran,bahan baku,397676,Pengeluaran - bahan baku
+2024-02-27,Pengeluaran,perlengkapan,355805,Pengeluaran - perlengkapan
+2024-03-20,Pemasukan,penjualan,140909,Pemasukan - penjualan
+2024-01-03,Pemasukan,penjualan,450759,Pemasukan - penjualan
+2024-10-15,Pengeluaran,perlengkapan,227421,Pengeluaran - perlengkapan
+2024-09-21,Pengeluaran,gaji,380476,Pengeluaran - gaji
+2024-03-10,Pengeluaran,perlengkapan,484531,Pengeluaran - perlengkapan
+2024-11-09,Pemasukan,penjualan,40514,Pemasukan - penjualan
+2024-09-29,Pengeluaran,gaji,377196,Pengeluaran - gaji
+2024-10-24,Pengeluaran,gaji,229470,Pengeluaran - gaji
+2024-02-18,Pemasukan,penjualan,259907,Pemasukan - penjualan
+2024-02-18,Pengeluaran,bahan baku,278905,Pengeluaran - bahan baku
+2024-05-30,Pemasukan,penjualan,318265,Pemasukan - penjualan
+2024-03-25,Pemasukan,penjualan,54800,Pemasukan - penjualan
+2024-02-20,Pengeluaran,perlengkapan,381343,Pengeluaran - perlengkapan
+2024-11-20,Pemasukan,penjualan,218405,Pemasukan - penjualan
+2024-04-02,Pengeluaran,bahan baku,343091,Pengeluaran - bahan baku
+2024-07-27,Pemasukan,penjualan,285153,Pemasukan - penjualan
+2024-03-16,Pemasukan,penjualan,407214,Pemasukan - penjualan
+2024-04-20,Pemasukan,penjualan,186208,Pemasukan - penjualan
+2024-03-15,Pemasukan,penjualan,114436,Pemasukan - penjualan
+2024-12-13,Pemasukan,penjualan,440570,Pemasukan - penjualan
+2024-04-13,Pemasukan,penjualan,363168,Pemasukan - penjualan
+2024-01-10,Pemasukan,penjualan,359930,Pemasukan - penjualan
+2024-07-20,Pemasukan,penjualan,48813,Pemasukan - penjualan
+2024-04-24,Pengeluaran,bahan baku,153331,Pengeluaran - bahan baku
+2024-11-20,Pemasukan,penjualan,435706,Pemasukan - penjualan
+2024-08-26,Pemasukan,penjualan,315528,Pemasukan - penjualan
+2024-05-18,Pengeluaran,perlengkapan,387725,Pengeluaran - perlengkapan
+2024-03-22,Pemasukan,penjualan,65753,Pemasukan - penjualan
+2024-05-19,Pemasukan,penjualan,285269,Pemasukan - penjualan
+2024-11-14,Pengeluaran,bahan baku,367223,Pengeluaran - bahan baku
+2024-12-10,Pemasukan,penjualan,189346,Pemasukan - penjualan
+2024-04-24,Pemasukan,penjualan,142959,Pemasukan - penjualan
+2024-10-13,Pemasukan,penjualan,247148,Pemasukan - penjualan
+2024-01-28,Pemasukan,penjualan,312314,Pemasukan - penjualan
+2024-11-15,Pemasukan,penjualan,422823,Pemasukan - penjualan
+2024-03-04,Pengeluaran,transportasi,118845,Pengeluaran - transportasi
+2024-12-30,Pengeluaran,perlengkapan,361119,Pengeluaran - perlengkapan
+2024-01-25,Pemasukan,penjualan,326694,Pemasukan - penjualan
+2024-02-15,Pengeluaran,bahan baku,170899,Pengeluaran - bahan baku
+2024-01-29,Pengeluaran,gaji,432429,Pengeluaran - gaji
+2024-10-16,Pengeluaran,gaji,299577,Pengeluaran - gaji
+2024-01-29,Pengeluaran,transportasi,146785,Pengeluaran - transportasi
+2024-11-24,Pengeluaran,gaji,426735,Pengeluaran - gaji
+2024-10-07,Pengeluaran,listrik,16855,Pengeluaran - listrik
+2024-09-18,Pemasukan,penjualan,46821,Pemasukan - penjualan
+2024-11-01,Pemasukan,penjualan,13441,Pemasukan - penjualan
+2024-04-15,Pemasukan,penjualan,342509,Pemasukan - penjualan
+2024-12-21,Pemasukan,penjualan,358102,Pemasukan - penjualan
+2024-05-12,Pengeluaran,gaji,238801,Pengeluaran - gaji
+2024-05-17,Pemasukan,penjualan,460684,Pemasukan - penjualan
+2024-01-20,Pengeluaran,perlengkapan,123059,Pengeluaran - perlengkapan
+2024-06-29,Pemasukan,penjualan,219159,Pemasukan - penjualan
+2024-04-12,Pemasukan,penjualan,345494,Pemasukan - penjualan
+2024-01-18,Pemasukan,penjualan,117197,Pemasukan - penjualan
+2024-03-05,Pengeluaran,perlengkapan,280567,Pengeluaran - perlengkapan
+2024-06-22,Pemasukan,penjualan,474971,Pemasukan - penjualan
+2024-09-07,Pemasukan,penjualan,494416,Pemasukan - penjualan
+2024-02-28,Pemasukan,penjualan,162671,Pemasukan - penjualan
+2024-10-19,Pengeluaran,perlengkapan,145756,Pengeluaran - perlengkapan
+2024-10-29,Pemasukan,penjualan,142398,Pemasukan - penjualan
+2024-02-02,Pemasukan,penjualan,19429,Pemasukan - penjualan
+2024-08-25,Pemasukan,penjualan,256286,Pemasukan - penjualan
+2024-02-10,Pengeluaran,gaji,159792,Pengeluaran - gaji
+2024-10-28,Pengeluaran,bahan baku,200592,Pengeluaran - bahan baku
+2024-07-10,Pengeluaran,bahan baku,369781,Pengeluaran - bahan baku
+2024-03-14,Pengeluaran,gaji,81207,Pengeluaran - gaji
+2024-09-02,Pengeluaran,gaji,47196,Pengeluaran - gaji
+2024-05-07,Pengeluaran,gaji,130014,Pengeluaran - gaji
+2024-08-31,Pemasukan,penjualan,414677,Pemasukan - penjualan
+2024-04-08,Pengeluaran,perlengkapan,20827,Pengeluaran - perlengkapan
+2024-02-06,Pengeluaran,bahan baku,280550,Pengeluaran - bahan baku
+2024-06-20,Pemasukan,penjualan,461007,Pemasukan - penjualan
+2024-02-16,Pemasukan,penjualan,432894,Pemasukan - penjualan
+2024-07-30,Pemasukan,penjualan,245261,Pemasukan - penjualan
+2024-09-22,Pemasukan,penjualan,373084,Pemasukan - penjualan
+2024-12-11,Pemasukan,penjualan,468869,Pemasukan - penjualan
+2024-03-23,Pengeluaran,perlengkapan,288177,Pengeluaran - perlengkapan
+2024-08-16,Pengeluaran,bahan baku,187274,Pengeluaran - bahan baku
+2024-01-03,Pemasukan,penjualan,426795,Pemasukan - penjualan
+2024-04-12,Pemasukan,penjualan,171785,Pemasukan - penjualan
+2024-11-17,Pemasukan,penjualan,358383,Pemasukan - penjualan
+2024-12-24,Pemasukan,penjualan,82972,Pemasukan - penjualan
+2024-09-09,Pengeluaran,transportasi,382838,Pengeluaran - transportasi
+2024-06-07,Pengeluaran,perlengkapan,380075,Pengeluaran - perlengkapan
+2024-12-09,Pengeluaran,perlengkapan,427858,Pengeluaran - perlengkapan
+2024-02-01,Pemasukan,penjualan,10250,Pemasukan - penjualan
+2024-04-25,Pengeluaran,listrik,82108,Pengeluaran - listrik
+2024-12-29,Pengeluaran,bahan baku,206207,Pengeluaran - bahan baku
+2024-11-27,Pengeluaran,perlengkapan,482825,Pengeluaran - perlengkapan
+2024-01-29,Pengeluaran,gaji,93776,Pengeluaran - gaji
+2024-02-10,Pengeluaran,perlengkapan,207830,Pengeluaran - perlengkapan
+2024-07-26,Pengeluaran,bahan baku,63773,Pengeluaran - bahan baku
+2024-05-03,Pemasukan,penjualan,249198,Pemasukan - penjualan
+2024-10-26,Pemasukan,penjualan,247791,Pemasukan - penjualan
+2024-08-14,Pengeluaran,bahan baku,239727,Pengeluaran - bahan baku
+2024-06-29,Pengeluaran,listrik,19480,Pengeluaran - listrik
+2024-04-12,Pemasukan,penjualan,96832,Pemasukan - penjualan
+2024-03-08,Pengeluaran,bahan baku,439596,Pengeluaran - bahan baku
+2024-02-13,Pengeluaran,perlengkapan,267052,Pengeluaran - perlengkapan
+2024-01-22,Pemasukan,penjualan,419341,Pemasukan - penjualan
+2024-10-16,Pemasukan,penjualan,403125,Pemasukan - penjualan
+2024-05-12,Pemasukan,penjualan,22421,Pemasukan - penjualan
+2024-09-07,Pemasukan,penjualan,42955,Pemasukan - penjualan
+2024-09-05,Pemasukan,penjualan,170386,Pemasukan - penjualan
+2024-05-06,Pengeluaran,gaji,309370,Pengeluaran - gaji
+2024-01-30,Pemasukan,penjualan,498908,Pemasukan - penjualan
+2024-01-03,Pengeluaran,transportasi,362459,Pengeluaran - transportasi
+2024-08-07,Pemasukan,penjualan,132828,Pemasukan - penjualan
+2024-06-30,Pengeluaran,transportasi,197574,Pengeluaran - transportasi
+2024-05-19,Pengeluaran,perlengkapan,150377,Pengeluaran - perlengkapan
+2024-10-16,Pengeluaran,gaji,431328,Pengeluaran - gaji
+2024-02-26,Pengeluaran,perlengkapan,176695,Pengeluaran - perlengkapan
+2024-04-13,Pengeluaran,bahan baku,422350,Pengeluaran - bahan baku
+2024-09-24,Pemasukan,penjualan,250181,Pemasukan - penjualan
+2024-06-16,Pemasukan,penjualan,433096,Pemasukan - penjualan
+2024-08-07,Pemasukan,penjualan,243286,Pemasukan - penjualan
+2024-02-14,Pengeluaran,gaji,163516,Pengeluaran - gaji
+2024-08-16,Pemasukan,penjualan,448379,Pemasukan - penjualan
+2024-07-20,Pengeluaran,transportasi,231933,Pengeluaran - transportasi
+2024-03-24,Pengeluaran,gaji,499917,Pengeluaran - gaji
+2024-04-26,Pemasukan,penjualan,181718,Pemasukan - penjualan
+2024-09-30,Pemasukan,penjualan,63203,Pemasukan - penjualan
+2024-10-31,Pemasukan,penjualan,495640,Pemasukan - penjualan
+2024-04-14,Pengeluaran,transportasi,36049,Pengeluaran - transportasi
+2024-07-09,Pemasukan,penjualan,494147,Pemasukan - penjualan
+2024-09-21,Pemasukan,penjualan,388818,Pemasukan - penjualan
+2024-09-09,Pengeluaran,gaji,90339,Pengeluaran - gaji
+2024-08-15,Pengeluaran,gaji,15237,Pengeluaran - gaji
+2024-12-28,Pengeluaran,listrik,123228,Pengeluaran - listrik
+2024-10-19,Pemasukan,penjualan,499069,Pemasukan - penjualan
+2024-10-12,Pengeluaran,gaji,472309,Pengeluaran - gaji
+2024-02-10,Pengeluaran,perlengkapan,296180,Pengeluaran - perlengkapan
+2024-11-18,Pemasukan,penjualan,314869,Pemasukan - penjualan
+2024-07-24,Pengeluaran,listrik,214174,Pengeluaran - listrik
+2024-05-02,Pemasukan,penjualan,256567,Pemasukan - penjualan
+2024-10-15,Pengeluaran,transportasi,203472,Pengeluaran - transportasi
+2024-12-29,Pemasukan,penjualan,370603,Pemasukan - penjualan
+2024-05-12,Pemasukan,penjualan,178056,Pemasukan - penjualan
+2024-08-23,Pemasukan,penjualan,356004,Pemasukan - penjualan
+2024-10-10,Pemasukan,penjualan,182644,Pemasukan - penjualan
+2024-06-17,Pemasukan,penjualan,110179,Pemasukan - penjualan
+2024-02-10,Pengeluaran,gaji,351959,Pengeluaran - gaji
+2024-06-12,Pengeluaran,perlengkapan,317065,Pengeluaran - perlengkapan
+2024-06-02,Pemasukan,penjualan,146014,Pemasukan - penjualan
+2024-06-10,Pemasukan,penjualan,84437,Pemasukan - penjualan
+2024-03-06,Pemasukan,penjualan,375775,Pemasukan - penjualan
+2024-11-01,Pengeluaran,transportasi,464501,Pengeluaran - transportasi
+2024-07-22,Pengeluaran,transportasi,309940,Pengeluaran - transportasi
+2024-05-05,Pengeluaran,bahan baku,355418,Pengeluaran - bahan baku
+2024-06-17,Pemasukan,penjualan,127616,Pemasukan - penjualan
+2024-07-02,Pengeluaran,gaji,239586,Pengeluaran - gaji
+2024-04-07,Pengeluaran,perlengkapan,154426,Pengeluaran - perlengkapan
+2024-05-15,Pemasukan,penjualan,258415,Pemasukan - penjualan
+2024-10-29,Pemasukan,penjualan,134366,Pemasukan - penjualan
+2024-09-01,Pengeluaran,listrik,167094,Pengeluaran - listrik
+2024-05-11,Pengeluaran,bahan baku,477738,Pengeluaran - bahan baku
+2024-03-05,Pengeluaran,listrik,477079,Pengeluaran - listrik
+2024-07-15,Pengeluaran,bahan baku,148380,Pengeluaran - bahan baku
+2024-10-23,Pengeluaran,listrik,144366,Pengeluaran - listrik
+2024-02-09,Pengeluaran,perlengkapan,156480,Pengeluaran - perlengkapan
+2024-02-03,Pengeluaran,perlengkapan,481593,Pengeluaran - perlengkapan
+2024-06-08,Pemasukan,penjualan,144538,Pemasukan - penjualan
+2024-08-13,Pengeluaran,perlengkapan,431737,Pengeluaran - perlengkapan
+2024-04-17,Pengeluaran,gaji,39668,Pengeluaran - gaji
+2024-08-24,Pengeluaran,transportasi,462927,Pengeluaran - transportasi
+2024-01-11,Pengeluaran,listrik,338933,Pengeluaran - listrik
+2024-01-18,Pemasukan,penjualan,248117,Pemasukan - penjualan
+2024-04-11,Pengeluaran,listrik,451091,Pengeluaran - listrik
+2024-12-07,Pemasukan,penjualan,464722,Pemasukan - penjualan
+2024-08-22,Pemasukan,penjualan,284921,Pemasukan - penjualan
+2024-10-17,Pengeluaran,gaji,432331,Pengeluaran - gaji
+2024-12-05,Pemasukan,penjualan,383822,Pemasukan - penjualan
+2024-05-27,Pengeluaran,bahan baku,191805,Pengeluaran - bahan baku
+2024-05-07,Pemasukan,penjualan,386568,Pemasukan - penjualan
+2024-01-10,Pengeluaran,perlengkapan,175716,Pengeluaran - perlengkapan
+2024-02-18,Pengeluaran,listrik,431768,Pengeluaran - listrik
+2024-09-14,Pengeluaran,gaji,132683,Pengeluaran - gaji
+2024-11-22,Pengeluaran,gaji,192263,Pengeluaran - gaji
+2024-12-29,Pemasukan,penjualan,63027,Pemasukan - penjualan
+2024-09-15,Pemasukan,penjualan,416196,Pemasukan - penjualan
+2024-05-03,Pengeluaran,transportasi,41113,Pengeluaran - transportasi
+2024-08-04,Pengeluaran,gaji,60287,Pengeluaran - gaji
+2024-05-13,Pemasukan,penjualan,22900,Pemasukan - penjualan
+2024-05-17,Pemasukan,penjualan,145774,Pemasukan - penjualan
+2024-02-12,Pemasukan,penjualan,389026,Pemasukan - penjualan
+2024-06-02,Pengeluaran,perlengkapan,482907,Pengeluaran - perlengkapan
+2024-03-19,Pengeluaran,transportasi,467375,Pengeluaran - transportasi
+2024-02-20,Pemasukan,penjualan,85632,Pemasukan - penjualan
+2024-01-27,Pemasukan,penjualan,215242,Pemasukan - penjualan
+2024-01-24,Pengeluaran,perlengkapan,350510,Pengeluaran - perlengkapan
+2024-04-11,Pemasukan,penjualan,305704,Pemasukan - penjualan
+2024-04-22,Pemasukan,penjualan,148377,Pemasukan - penjualan
+2024-12-08,Pemasukan,penjualan,365148,Pemasukan - penjualan
+2024-10-06,Pemasukan,penjualan,57499,Pemasukan - penjualan
+2024-02-17,Pengeluaran,listrik,153582,Pengeluaran - listrik
+2024-06-30,Pengeluaran,gaji,34770,Pengeluaran - gaji
+2024-10-08,Pengeluaran,listrik,270176,Pengeluaran - listrik
+2024-02-24,Pengeluaran,listrik,281908,Pengeluaran - listrik
+2024-04-24,Pengeluaran,listrik,302135,Pengeluaran - listrik
+2024-10-20,Pemasukan,penjualan,37070,Pemasukan - penjualan
+2024-01-21,Pengeluaran,perlengkapan,456772,Pengeluaran - perlengkapan
+2024-04-13,Pemasukan,penjualan,375696,Pemasukan - penjualan
+2024-07-01,Pemasukan,penjualan,32456,Pemasukan - penjualan
+2024-11-16,Pemasukan,penjualan,328180,Pemasukan - penjualan
+2024-12-31,Pemasukan,penjualan,50821,Pemasukan - penjualan
+2024-08-28,Pengeluaran,listrik,395259,Pengeluaran - listrik
+2024-05-09,Pemasukan,penjualan,187947,Pemasukan - penjualan
+2024-12-03,Pengeluaran,listrik,378053,Pengeluaran - listrik
+2024-11-08,Pengeluaran,perlengkapan,59498,Pengeluaran - perlengkapan
+2024-11-22,Pengeluaran,transportasi,103336,Pengeluaran - transportasi
+2024-02-12,Pemasukan,penjualan,71893,Pemasukan - penjualan
+2024-04-21,Pemasukan,penjualan,198044,Pemasukan - penjualan
+2024-04-14,Pengeluaran,bahan baku,138483,Pengeluaran - bahan baku
+2024-02-08,Pengeluaran,listrik,320544,Pengeluaran - listrik
+2024-12-16,Pengeluaran,transportasi,345079,Pengeluaran - transportasi
+2024-12-28,Pemasukan,penjualan,187247,Pemasukan - penjualan
+2024-03-19,Pemasukan,penjualan,263431,Pemasukan - penjualan
+2024-06-07,Pemasukan,penjualan,110421,Pemasukan - penjualan
+2024-12-30,Pengeluaran,gaji,483510,Pengeluaran - gaji
+2024-01-26,Pemasukan,penjualan,404742,Pemasukan - penjualan
+2024-12-13,Pemasukan,penjualan,77350,Pemasukan - penjualan
+2024-04-27,Pemasukan,penjualan,25678,Pemasukan - penjualan
+2024-03-05,Pengeluaran,bahan baku,377639,Pengeluaran - bahan baku
+2024-01-20,Pengeluaran,transportasi,351259,Pengeluaran - transportasi
+2024-09-25,Pengeluaran,transportasi,25261,Pengeluaran - transportasi
+2024-06-27,Pengeluaran,bahan baku,156781,Pengeluaran - bahan baku
+2024-04-25,Pengeluaran,bahan baku,452626,Pengeluaran - bahan baku
+2024-03-31,Pemasukan,penjualan,328383,Pemasukan - penjualan
+2024-10-15,Pemasukan,penjualan,154785,Pemasukan - penjualan
+2024-05-23,Pengeluaran,transportasi,19479,Pengeluaran - transportasi
+2024-10-24,Pengeluaran,gaji,148455,Pengeluaran - gaji
+2024-01-12,Pengeluaran,gaji,394235,Pengeluaran - gaji
+2024-07-03,Pengeluaran,perlengkapan,287369,Pengeluaran - perlengkapan
+2024-07-08,Pengeluaran,bahan baku,404006,Pengeluaran - bahan baku
+2024-01-11,Pengeluaran,listrik,111607,Pengeluaran - listrik
+2024-12-16,Pengeluaran,gaji,486616,Pengeluaran - gaji
+2024-03-01,Pemasukan,penjualan,299236,Pemasukan - penjualan
+2024-05-22,Pengeluaran,gaji,329317,Pengeluaran - gaji
+2024-11-09,Pemasukan,penjualan,95511,Pemasukan - penjualan
+2024-06-25,Pengeluaran,bahan baku,340436,Pengeluaran - bahan baku
+2024-04-11,Pengeluaran,gaji,143834,Pengeluaran - gaji
+2024-07-24,Pemasukan,penjualan,213110,Pemasukan - penjualan
+2024-01-16,Pengeluaran,listrik,214968,Pengeluaran - listrik
+2024-01-17,Pemasukan,penjualan,197148,Pemasukan - penjualan
+2024-08-09,Pemasukan,penjualan,221612,Pemasukan - penjualan
+2024-04-22,Pengeluaran,bahan baku,191549,Pengeluaran - bahan baku
+2024-12-17,Pengeluaran,gaji,349818,Pengeluaran - gaji
+2024-04-29,Pengeluaran,gaji,493241,Pengeluaran - gaji
+2024-06-05,Pengeluaran,listrik,41876,Pengeluaran - listrik
+2024-11-06,Pemasukan,penjualan,455417,Pemasukan - penjualan
+2024-04-15,Pengeluaran,gaji,489190,Pengeluaran - gaji
+2024-01-24,Pemasukan,penjualan,438804,Pemasukan - penjualan
+2024-08-13,Pengeluaran,bahan baku,224636,Pengeluaran - bahan baku
+2024-05-13,Pemasukan,penjualan,73263,Pemasukan - penjualan
+2024-09-09,Pemasukan,penjualan,281149,Pemasukan - penjualan
+2024-10-23,Pemasukan,penjualan,196059,Pemasukan - penjualan
+2024-01-01,Pemasukan,penjualan,145255,Pemasukan - penjualan
+2024-03-28,Pemasukan,penjualan,25657,Pemasukan - penjualan
+2024-12-04,Pengeluaran,perlengkapan,10140,Pengeluaran - perlengkapan
+2024-05-26,Pengeluaran,listrik,109213,Pengeluaran - listrik
+2024-09-20,Pemasukan,penjualan,144434,Pemasukan - penjualan
+2024-09-10,Pengeluaran,gaji,84466,Pengeluaran - gaji
+2024-11-11,Pemasukan,penjualan,258070,Pemasukan - penjualan
+2024-08-15,Pemasukan,penjualan,127718,Pemasukan - penjualan
+2024-07-01,Pemasukan,penjualan,464675,Pemasukan - penjualan
+2024-07-02,Pengeluaran,gaji,253461,Pengeluaran - gaji
+2024-09-30,Pemasukan,penjualan,492085,Pemasukan - penjualan
+2024-02-17,Pengeluaran,gaji,220638,Pengeluaran - gaji
+2024-02-06,Pemasukan,penjualan,299384,Pemasukan - penjualan
+2024-08-19,Pengeluaran,listrik,444739,Pengeluaran - listrik
+2024-02-09,Pengeluaran,bahan baku,147601,Pengeluaran - bahan baku
+2024-06-13,Pemasukan,penjualan,457273,Pemasukan - penjualan
+2024-05-07,Pemasukan,penjualan,174193,Pemasukan - penjualan
+2024-09-29,Pengeluaran,listrik,159718,Pengeluaran - listrik
+2024-05-24,Pemasukan,penjualan,49370,Pemasukan - penjualan
+2024-12-12,Pengeluaran,perlengkapan,71455,Pengeluaran - perlengkapan
+2024-12-03,Pengeluaran,gaji,94529,Pengeluaran - gaji
+2024-04-29,Pemasukan,penjualan,256137,Pemasukan - penjualan
+2024-12-07,Pemasukan,penjualan,244579,Pemasukan - penjualan
+2024-03-31,Pemasukan,penjualan,387542,Pemasukan - penjualan
+2024-11-14,Pemasukan,penjualan,97773,Pemasukan - penjualan
+2024-08-31,Pemasukan,penjualan,246031,Pemasukan - penjualan
+2024-04-29,Pengeluaran,gaji,94824,Pengeluaran - gaji
+2024-09-30,Pengeluaran,gaji,381878,Pengeluaran - gaji
+2024-09-01,Pemasukan,penjualan,344859,Pemasukan - penjualan
+2024-03-02,Pemasukan,penjualan,193293,Pemasukan - penjualan
+2024-05-01,Pengeluaran,gaji,191210,Pengeluaran - gaji
+2024-12-23,Pemasukan,penjualan,145116,Pemasukan - penjualan
+2024-01-25,Pengeluaran,bahan baku,85613,Pengeluaran - bahan baku
+2024-03-13,Pengeluaran,transportasi,264500,Pengeluaran - transportasi
+2024-08-13,Pemasukan,penjualan,129483,Pemasukan - penjualan
+2024-09-05,Pemasukan,penjualan,414476,Pemasukan - penjualan
+2024-11-30,Pemasukan,penjualan,63583,Pemasukan - penjualan
+2024-08-04,Pemasukan,penjualan,286467,Pemasukan - penjualan
+2024-12-05,Pengeluaran,bahan baku,227621,Pengeluaran - bahan baku
+2024-03-31,Pemasukan,penjualan,423570,Pemasukan - penjualan
+2024-03-15,Pengeluaran,bahan baku,59238,Pengeluaran - bahan baku
+2024-05-28,Pengeluaran,listrik,276753,Pengeluaran - listrik
+2024-10-22,Pengeluaran,bahan baku,86291,Pengeluaran - bahan baku
+2024-03-04,Pemasukan,penjualan,149407,Pemasukan - penjualan
+2024-01-30,Pemasukan,penjualan,274684,Pemasukan - penjualan
+2024-05-14,Pengeluaran,perlengkapan,116517,Pengeluaran - perlengkapan
+2024-02-01,Pemasukan,penjualan,162113,Pemasukan - penjualan
+2024-07-02,Pengeluaran,gaji,404861,Pengeluaran - gaji
+2024-11-12,Pengeluaran,bahan baku,335956,Pengeluaran - bahan baku
+2024-09-13,Pengeluaran,listrik,409158,Pengeluaran - listrik
+2024-08-18,Pemasukan,penjualan,165013,Pemasukan - penjualan
+2024-07-01,Pengeluaran,perlengkapan,164708,Pengeluaran - perlengkapan
+2024-12-20,Pengeluaran,listrik,433912,Pengeluaran - listrik
+2024-04-18,Pengeluaran,bahan baku,89419,Pengeluaran - bahan baku
+2024-02-02,Pengeluaran,perlengkapan,493840,Pengeluaran - perlengkapan
+2024-09-05,Pengeluaran,perlengkapan,292198,Pengeluaran - perlengkapan
+2024-09-11,Pemasukan,penjualan,167745,Pemasukan - penjualan
+2024-12-16,Pengeluaran,bahan baku,198806,Pengeluaran - bahan baku
+2024-05-16,Pemasukan,penjualan,73587,Pemasukan - penjualan
+2024-03-13,Pemasukan,penjualan,164492,Pemasukan - penjualan
+2024-08-29,Pengeluaran,gaji,183283,Pengeluaran - gaji
+2024-03-22,Pengeluaran,gaji,20525,Pengeluaran - gaji
+2024-11-26,Pemasukan,penjualan,26669,Pemasukan - penjualan
+2024-12-02,Pemasukan,penjualan,445983,Pemasukan - penjualan
+2024-07-30,Pengeluaran,perlengkapan,382837,Pengeluaran - perlengkapan
+2024-02-05,Pemasukan,penjualan,28645,Pemasukan - penjualan
+2024-10-11,Pemasukan,penjualan,422481,Pemasukan - penjualan
+2024-09-08,Pengeluaran,perlengkapan,230039,Pengeluaran - perlengkapan
+2024-05-16,Pengeluaran,listrik,69975,Pengeluaran - listrik
+2024-10-31,Pengeluaran,transportasi,67221,Pengeluaran - transportasi
+2024-07-24,Pengeluaran,gaji,141460,Pengeluaran - gaji
+2024-06-01,Pengeluaran,transportasi,143497,Pengeluaran - transportasi
+2024-02-25,Pengeluaran,bahan baku,402939,Pengeluaran - bahan baku
+2024-09-03,Pengeluaran,listrik,290342,Pengeluaran - listrik
+2024-03-21,Pemasukan,penjualan,427713,Pemasukan - penjualan
+2024-10-05,Pengeluaran,listrik,320358,Pengeluaran - listrik
+2024-06-11,Pengeluaran,gaji,219887,Pengeluaran - gaji
+2024-04-19,Pemasukan,penjualan,35237,Pemasukan - penjualan
+2024-02-29,Pemasukan,penjualan,181396,Pemasukan - penjualan
+2024-03-09,Pengeluaran,bahan baku,287266,Pengeluaran - bahan baku
+2024-04-24,Pemasukan,penjualan,297899,Pemasukan - penjualan
+2024-01-10,Pengeluaran,listrik,29452,Pengeluaran - listrik
+2024-02-14,Pemasukan,penjualan,35349,Pemasukan - penjualan
+2024-11-18,Pengeluaran,gaji,390273,Pengeluaran - gaji
+2024-07-28,Pemasukan,penjualan,264650,Pemasukan - penjualan
+2024-04-14,Pemasukan,penjualan,224748,Pemasukan - penjualan
+2024-06-15,Pemasukan,penjualan,368795,Pemasukan - penjualan
+2024-12-06,Pengeluaran,perlengkapan,438688,Pengeluaran - perlengkapan
+2024-08-07,Pengeluaran,bahan baku,24171,Pengeluaran - bahan baku
+2024-06-15,Pemasukan,penjualan,149658,Pemasukan - penjualan
+2024-06-11,Pengeluaran,gaji,407357,Pengeluaran - gaji
+2024-06-17,Pengeluaran,bahan baku,197900,Pengeluaran - bahan baku
+2024-09-21,Pengeluaran,gaji,495283,Pengeluaran - gaji
+2024-01-06,Pengeluaran,perlengkapan,293701,Pengeluaran - perlengkapan
+2024-02-09,Pengeluaran,transportasi,48265,Pengeluaran - transportasi
+2024-07-29,Pengeluaran,gaji,312501,Pengeluaran - gaji
+2024-03-23,Pemasukan,penjualan,147873,Pemasukan - penjualan
+2024-09-25,Pemasukan,penjualan,134309,Pemasukan - penjualan
+2024-10-19,Pengeluaran,bahan baku,46905,Pengeluaran - bahan baku
+2024-09-11,Pemasukan,penjualan,360338,Pemasukan - penjualan
+2024-05-10,Pengeluaran,listrik,383126,Pengeluaran - listrik
+2024-09-16,Pengeluaran,transportasi,96805,Pengeluaran - transportasi
+2024-10-27,Pemasukan,penjualan,345539,Pemasukan - penjualan
+2024-06-13,Pengeluaran,perlengkapan,188058,Pengeluaran - perlengkapan
+2024-11-14,Pemasukan,penjualan,336784,Pemasukan - penjualan
+2024-06-06,Pengeluaran,transportasi,468112,Pengeluaran - transportasi
+2024-06-05,Pemasukan,penjualan,417560,Pemasukan - penjualan
+2024-09-21,Pemasukan,penjualan,27040,Pemasukan - penjualan
+2024-03-26,Pemasukan,penjualan,339322,Pemasukan - penjualan
+2024-04-02,Pengeluaran,perlengkapan,375021,Pengeluaran - perlengkapan
+2024-06-08,Pengeluaran,transportasi,346631,Pengeluaran - transportasi
+2024-02-15,Pengeluaran,perlengkapan,345183,Pengeluaran - perlengkapan
+2024-01-13,Pengeluaran,bahan baku,27024,Pengeluaran - bahan baku
+2024-12-13,Pengeluaran,gaji,464124,Pengeluaran - gaji
+2024-12-14,Pengeluaran,transportasi,111009,Pengeluaran - transportasi
+2024-05-19,Pengeluaran,perlengkapan,357801,Pengeluaran - perlengkapan
+2024-05-17,Pengeluaran,listrik,223797,Pengeluaran - listrik
+2024-04-03,Pemasukan,penjualan,406560,Pemasukan - penjualan
+2024-04-24,Pengeluaran,perlengkapan,305867,Pengeluaran - perlengkapan
+2024-08-19,Pengeluaran,listrik,26341,Pengeluaran - listrik
+2024-05-02,Pengeluaran,transportasi,217837,Pengeluaran - transportasi
+2024-07-25,Pengeluaran,transportasi,218393,Pengeluaran - transportasi
+2024-12-19,Pemasukan,penjualan,303551,Pemasukan - penjualan
+2024-10-02,Pemasukan,penjualan,415829,Pemasukan - penjualan
+2024-03-22,Pemasukan,penjualan,201148,Pemasukan - penjualan
+2024-02-15,Pengeluaran,transportasi,298637,Pengeluaran - transportasi
+2024-05-09,Pengeluaran,bahan baku,330691,Pengeluaran - bahan baku
+2024-01-10,Pengeluaran,bahan baku,122138,Pengeluaran - bahan baku
+2024-02-21,Pengeluaran,gaji,493281,Pengeluaran - gaji
+2024-05-25,Pengeluaran,bahan baku,470767,Pengeluaran - bahan baku
+2024-08-05,Pemasukan,penjualan,143083,Pemasukan - penjualan
+2024-05-15,Pengeluaran,transportasi,53871,Pengeluaran - transportasi
+2024-10-11,Pemasukan,penjualan,423912,Pemasukan - penjualan
+2024-05-05,Pengeluaran,transportasi,261400,Pengeluaran - transportasi
+2024-12-02,Pengeluaran,gaji,373314,Pengeluaran - gaji
+2024-12-24,Pengeluaran,bahan baku,120445,Pengeluaran - bahan baku
+2024-12-11,Pemasukan,penjualan,295434,Pemasukan - penjualan
+2024-03-04,Pemasukan,penjualan,427737,Pemasukan - penjualan
+2024-12-13,Pengeluaran,gaji,357364,Pengeluaran - gaji
+2024-02-19,Pengeluaran,listrik,90920,Pengeluaran - listrik
+2024-08-24,Pemasukan,penjualan,217135,Pemasukan - penjualan
+2024-01-10,Pengeluaran,gaji,385141,Pengeluaran - gaji
+2024-09-18,Pengeluaran,perlengkapan,405413,Pengeluaran - perlengkapan
+2024-11-23,Pengeluaran,transportasi,405861,Pengeluaran - transportasi
+2024-01-11,Pengeluaran,transportasi,244844,Pengeluaran - transportasi
+2024-08-16,Pemasukan,penjualan,378587,Pemasukan - penjualan
+2024-11-04,Pengeluaran,gaji,72709,Pengeluaran - gaji
+2024-07-03,Pengeluaran,bahan baku,453038,Pengeluaran - bahan baku
+2024-05-17,Pemasukan,penjualan,147538,Pemasukan - penjualan
+2024-08-15,Pemasukan,penjualan,451887,Pemasukan - penjualan
+2024-01-15,Pengeluaran,perlengkapan,200606,Pengeluaran - perlengkapan
+2024-07-03,Pemasukan,penjualan,152357,Pemasukan - penjualan
+2024-09-19,Pemasukan,penjualan,119771,Pemasukan - penjualan
+2024-05-13,Pengeluaran,bahan baku,294756,Pengeluaran - bahan baku
+2024-10-22,Pengeluaran,listrik,452971,Pengeluaran - listrik
+2024-10-09,Pengeluaran,gaji,257976,Pengeluaran - gaji
+2024-06-22,Pengeluaran,transportasi,390179,Pengeluaran - transportasi
+2024-07-25,Pemasukan,penjualan,96784,Pemasukan - penjualan
+2024-05-15,Pemasukan,penjualan,426040,Pemasukan - penjualan
+2024-04-16,Pengeluaran,bahan baku,70900,Pengeluaran - bahan baku
+2024-06-21,Pemasukan,penjualan,405180,Pemasukan - penjualan
+2024-02-11,Pemasukan,penjualan,314374,Pemasukan - penjualan
+2024-04-08,Pengeluaran,bahan baku,397102,Pengeluaran - bahan baku
+2024-06-15,Pengeluaran,gaji,376931,Pengeluaran - gaji
+2024-06-19,Pengeluaran,perlengkapan,236820,Pengeluaran - perlengkapan
+2024-01-26,Pengeluaran,perlengkapan,298506,Pengeluaran - perlengkapan
+2024-08-13,Pengeluaran,transportasi,18480,Pengeluaran - transportasi
+2024-04-25,Pengeluaran,transportasi,353392,Pengeluaran - transportasi
+2024-11-10,Pemasukan,penjualan,119553,Pemasukan - penjualan
+2024-05-03,Pengeluaran,gaji,460156,Pengeluaran - gaji
+2024-09-20,Pemasukan,penjualan,415293,Pemasukan - penjualan
+2024-05-05,Pengeluaran,gaji,345604,Pengeluaran - gaji
+2024-08-10,Pemasukan,penjualan,172683,Pemasukan - penjualan
+2024-08-23,Pemasukan,penjualan,13929,Pemasukan - penjualan
+2024-02-28,Pengeluaran,bahan baku,95781,Pengeluaran - bahan baku
+2024-01-15,Pemasukan,penjualan,11848,Pemasukan - penjualan
+2024-07-27,Pengeluaran,gaji,325728,Pengeluaran - gaji
+2024-07-25,Pengeluaran,perlengkapan,400692,Pengeluaran - perlengkapan

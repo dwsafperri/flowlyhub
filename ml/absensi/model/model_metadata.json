@@ -1,0 +1,52 @@
+{
+  "features": [
+    "scheduled_time",
+    "arrival_time",
+    "day_of_week",
+    "is_monday",
+    "is_friday",
+    "weather_0",
+    "weather_1",
+    "weather_2"
+  ],
+  "input_shape": 8,
+  "training_accuracy": 0.9800000190734863,
+  "test_accuracy": 0.9725000262260437,
+  "weather_map": {
+    "Clear": [
+      1,
+      0,
+      0
+    ],
+    "Clouds": [
+      0,
+      1,
+      0
+    ],
+    "Rain": [
+      0,
+      0,
+      1
+    ],
+    "Thunderstorm": [
+      0,
+      0,
+      1
+    ]
+  },
+  "day_map": {
+    "Monday": 0,
+    "Tuesday": 1,
+    "Wednesday": 2,
+    "Thursday": 3,
+    "Friday": 4,
+    "Saturday": 5,
+    "Sunday": 6
+  },
+  "tolerances": {
+    "Rain": 5,
+    "Thunderstorm": 5,
+    "Clear": 1,
+    "Clouds": 1
+  }
+}

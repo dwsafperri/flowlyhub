@@ -1,0 +1,23 @@
+{
+    "input_shape": [
+        8
+    ],
+    "features": [
+        "stok_awal",
+        "masuk",
+        "keluar",
+        "stock_movement",
+        "keluar_ma3",
+        "masuk_ma3",
+        "depletion_rate",
+        "bulan"
+    ],
+    "metrics": {
+        "train_accuracy": 0.9800000190734863,
+        "test_accuracy": 0.9850000143051147
+    },
+    "threshold": 0.5,
+    "preprocessing": {
+        "scaler": "StandardScaler"
+    }
+}
